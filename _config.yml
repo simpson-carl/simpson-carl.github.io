@@ -1,4 +1,49 @@
-auto: true
-markdown: rdiscount
-permalink: /:year/:month/:day/:title
-rdiscount extensions: [smart]
+title:            Carl Simpson
+description:      Macroevolutionary biology, colonies, code.
+logo:          	  cartoon.png   
+#disqus_shortname: 
+search:           true
+#Comment out url when working locally to resolve base urls correctly
+#url:             http://simpson-carl.github.io
+
+# Owner/author information
+owner:
+  name:           Carl Simpson
+  avatar:         carl-photo.jpg
+  email:          simpsoncg@si.edu
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: simpson_carl
+  facebook: carl.g.simpson
+  github:   simpson-carl
+#  linkedin:
+#  instagram:
+#  tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    "https://plus.google.com/u/0/100114596372940794423"
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-18549867-2 
+#google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+#bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Publications
+    url: /articles
+  - title: Code
+    url: /test
+ # - title: Google
+ #   url: http://google.com
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+pygments:    true
+markdown:    rdiscount
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:  /:year/:month/:day/:title 
