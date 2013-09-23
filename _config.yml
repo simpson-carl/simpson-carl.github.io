@@ -33,9 +33,11 @@ links:
   - title: About
     url: /about
   - title: Publications
-    url: /articles
+    url: /publications
   - title: Code
     url: /test
+  - title: Posts
+    url: /articles
  # - title: Google
  #   url: http://google.com
     external: true
