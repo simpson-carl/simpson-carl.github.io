@@ -2,9 +2,9 @@ title:            Carl Simpson
 description:      Macroevolutionary biology, colonies, code.
 logo:          	  cartoon.png   
 #disqus_shortname: 
-#search:           true
+search:           false
 #Comment out url when working locally to resolve base urls correctly
-url:             http://simpson-carl.github.io
+#url:             http://simpson-carl.github.io
 
 # Owner/author information
 owner:
@@ -34,8 +34,6 @@ links:
     url: /about
   - title: Publications
     url: /publications
-#  - title: Code
-#    url: /test
   - title: Posts
     url: /articles
  # - title: Google
