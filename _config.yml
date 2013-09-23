@@ -3,9 +3,8 @@ description:      Macroevolutionary biology, colonies, code.
 logo:          	  cartoon.png   
 #disqus_shortname: 
 search:           false
-#search:           false
 #Comment out url when working locally to resolve base urls correctly
-url:             http://simpson-carl.github.io
+#url:             http://simpson-carl.github.io
 
 # Owner/author information
 owner:
