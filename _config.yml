@@ -34,8 +34,8 @@ links:
     url: /about
   - title: Publications
     url: /publications
-  - title: Code
-    url: /test
+#  - title: Code
+#    url: /test
   - title: Posts
     url: /articles
  # - title: Google
