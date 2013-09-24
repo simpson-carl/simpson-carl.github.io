@@ -16,8 +16,21 @@ I'm Carl Simpson, a paleobiologist at the Smithsonian's National Museum of Natur
 To me, the core job of macroevolution is to understand the interactions between evolutionary processes across hierarchical levels. My work on the evolution of colonies allows me to identify, in detail, how closely linked levels interact. At the other extreme, my work on species selection allows me to understand how mostly decoupled levels interact to produce large-scale trends.
 
 
-![](/images/me-shorty.jpeg "ShortRound and Me")
-
+![](/images/me-shorty.jpg "ShortRound and Carl")
+---
+ >Abbott Postdoctoral Fellow
+> 
+>Smithsonian Institution
+>
+ >National Museum of Natural History
+>
+ >Smithsonian Institution [NHB, MRC 121]
+>
+ >P.O. Box 37012
+>
+ >Washington, D.C. 20013-7012
+>
+ >simpsoncg@si.edu
 
 
 <a markdown="0" href="http://scholar.google.com/citations?user=zS8EXIQAAAAJ&hl=en" class="btn">Google Scholar Profile</a>
