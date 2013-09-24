@@ -2,27 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Carl Simpson</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2013-09-23T21:36:31-04:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://simpson-carl.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://simpson-carl.github.io" />
+<updated>2013-09-23T21:36:58-04:00</updated>
+<id>http://simpson-carl.github.io/</id>
 <author>
   <name>Carl Simpson</name>
-  <uri>/</uri>
+  <uri>http://simpson-carl.github.io/</uri>
   <email>simpsoncg@si.edu</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Expansion and the hierarchical structure of levels of selection]]></title>
-  <link>/2013/09/21/expansion</link>
-  <id>/2013/09/21/expansion</id>
+  <link>http://simpson-carl.github.io/2013/09/21/expansion</link>
+  <id>http://simpson-carl.github.io/2013/09/21/expansion</id>
   <updated>2013-09-23T00:00:00-00:00</updated>
   <published>2013-09-21T00:00:00-04:00</published>
   
   <author>
     <name>Carl Simpson</name>
-    <uri></uri>
+    <uri>http://simpson-carl.github.io</uri>
     <email>simpsoncg@si.edu</email>
   </author>
   <content type="html">&lt;p&gt;Evolutionary success comes to the selfish---or so most biologists are taught.  Those organisms that reproduce most will of course be better represented in future generations. Current theory has had great success using this fact to understand much of evolution, but it hits a wall when it comes to understanding how primitively solitary organisms can aggregate together to form new wholes. Current theory predicts that the evolution of new wholes is undermined by the selfishness of the parts; if the parts keep reproducing an emergent whole can’t originate.  Yet every animal is a living contradiction of current theory.  During development animal cells divide in the same way their solitary ancestors reproduced, while concurrently the whole animal reproduces itself.&lt;/p&gt;
@@ -39,27 +39,27 @@
 
 &lt;p&gt;An additional empirical application is in human cultural evolution, where changes in cultural traits are potentially controlled by organismal-level selection, selection at the level of human groups, or they can be non-adaptive.  It is possible to identify the level and strength (including no selection) by the covariance of traits with demographic processes at both the organismal and group levels.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/2013/09/21/expansion&quot;&gt;Expansion and the hierarchical structure of levels of selection&lt;/a&gt; was originally published by Carl Simpson at &lt;a href=&quot;&quot;&gt;Carl Simpson&lt;/a&gt; on September 21, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://simpson-carl.github.io/2013/09/21/expansion&quot;&gt;Expansion and the hierarchical structure of levels of selection&lt;/a&gt; was originally published by Carl Simpson at &lt;a href=&quot;http://simpson-carl.github.io&quot;&gt;Carl Simpson&lt;/a&gt; on September 21, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Code]]></title>
-  <link>/2013/09/21/code</link>
-  <id>/2013/09/21/code</id>
+  <link>http://simpson-carl.github.io/2013/09/21/code</link>
+  <id>http://simpson-carl.github.io/2013/09/21/code</id>
   <updated>2013-09-23T00:00:00-00:00</updated>
   <published>2013-09-21T00:00:00-04:00</published>
   
   <author>
     <name>Carl Simpson</name>
-    <uri></uri>
+    <uri>http://simpson-carl.github.io</uri>
     <email>simpsoncg@si.edu</email>
   </author>
   <content type="html">&lt;p&gt;My main motivation to host this site on github is to share code for macroevolutionary studies.&lt;/p&gt;
 
 &lt;p&gt;Keep an eye on my posts feed to see what I've been up to, and dig into the github.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/2013/09/21/code&quot;&gt;Code&lt;/a&gt; was originally published by Carl Simpson at &lt;a href=&quot;&quot;&gt;Carl Simpson&lt;/a&gt; on September 21, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://simpson-carl.github.io/2013/09/21/code&quot;&gt;Code&lt;/a&gt; was originally published by Carl Simpson at &lt;a href=&quot;http://simpson-carl.github.io&quot;&gt;Carl Simpson&lt;/a&gt; on September 21, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
