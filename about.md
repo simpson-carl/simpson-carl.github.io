@@ -18,7 +18,7 @@ To me, the core job of macroevolution is to understand the interactions between 
 
 ![](/images/me-shorty.jpg "ShortRound and Carl")
 ---
- >Abbott Postdoctoral Fellow
+>Abbott Postdoctoral Fellow
 > 
 >Smithsonian Institution
 >
