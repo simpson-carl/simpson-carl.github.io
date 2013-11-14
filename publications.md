@@ -22,11 +22,11 @@ image:
 
 6. *Simpson, C.*, Müller, J., 2012. Species selection in the molecular age, in *From clone to bone: the synergy of morphological and molecular tools in paleobiology*, Johannes Müller and Rob Asher, eds. Cambridge University Press. p. 116-134.
 
-7. *Simpson, C.*rl. 2012. The evolutionary history of division of labour. *Proceedings of the Royal Society B - Biological Sciences*. 279(1726): 116-121. doi:10.1098/rspb.2011.0766.
+7. *Simpson, C.* 2012. The evolutionary history of division of labour. *Proceedings of the Royal Society B - Biological Sciences*. 279(1726): 116-121. doi:10.1098/rspb.2011.0766.
 
 8. *Simpson, C.*, Kiessling, W., Mewis, H., Baron-Szabo, R. C. & Müller, J. 2011. Evolutionary diversification of reef corals: a comparison of the molecular and fossil records. *Evolution*. 65(11) 3274–3284. DOI: 10.1111/j.1558-5646.2011.01365.x 
 
-9. Liow, Lee Hsiang, Carl Simpson, Frédéric Bouchard, John Damuth, Benedikt Hallgrimsson, Gene Hunt, Daniel W. McShea, Jeffery Powell, Nils 
+9. Liow, Lee Hsiang, *Carl Simpson*, Frédéric Bouchard, John Damuth, Benedikt Hallgrimsson, Gene Hunt, Daniel W. McShea, Jeffery Powell, Nils 
 Christian Stenseth, Melissa Stoller & Gunter Wagner. 2011. Pioneering Paradigms and Magnificent Manifestos -- Leigh Van Valen’s priceless contributions to evolutionary biology. *Evolution*. 65(4) 917-922. DOI: 10.1111/j.1558-5646.2011.01242.x
 
 10. *Simpson, C.* 2011. How many levels are there? How insights from evolutionary transitions in individuality help measure the hierarchical complexity of life. In, *The Major Transitions in Evolution Revisited*, Brett Calcott & Kim Sterelny eds.  MIT Press.
