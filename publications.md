@@ -20,7 +20,7 @@ image:
 
 5. Harnik, P. G., Lotze, H., Anderson, S. C., Finkel, Z. V. Finnegan, S., Lindberg, D. L., Liow, L. H., Lockwood, R., McClain, C. M., McGuire, J. L., O'Dea, A., Pandolfi, J. M., *Simpson, C.*, Tittensor, D. 2012. Extinctions in ancient and modern seas. *Trends in Ecology and Evolution*. 27(11) 608-617. doi://10.1016/j.tree.2012.07.010
 
-6. *Simpson, C.*, Müller, J., in press. Species selection in the molecular age, in *From clone to bone: the synergy of morphological and molecular tools in paleobiology*, Johannes Müller and Rob Asher, eds. Cambridge University Press. p. 116-134.
+6. *Simpson, C.*, Müller, J., 2012. Species selection in the molecular age, in *From clone to bone: the synergy of morphological and molecular tools in paleobiology*, Johannes Müller and Rob Asher, eds. Cambridge University Press. p. 116-134.
 
 7. *Simpson, C.*rl. 2012. The evolutionary history of division of labour. *Proceedings of the Royal Society B - Biological Sciences*. 279(1726): 116-121. doi:10.1098/rspb.2011.0766.
 
