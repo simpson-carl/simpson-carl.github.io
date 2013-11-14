@@ -20,8 +20,6 @@ To me, the core job of macroevolution is to understand the interactions between 
 ---
 >Abbott Postdoctoral Fellow
 > 
->Smithsonian Institution
->
  >National Museum of Natural History
 >
  >Smithsonian Institution [NHB, MRC 121]
