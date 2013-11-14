@@ -7,6 +7,8 @@ modified: 2013-09-23
 image: 
      feature: overgrowth.jpg
 ---
+1. Hopkins, M., Simpson, C., and Kiessling, W., Accepted. Differential niche dynamics among major marine invertebrate clades. *Ecology Letters*.
+
 
 1. Nowak, M. D., Smith, A. B., Simpson, C., and Zwickl, D. J. 2013. A Simple Method for Estimating Informative Node Age Priors for the Fossil Calibration of Molecular Divergence Time Analyses. *PLoS ONE* 8(6): e66245. doi:10.1371/journal.pone.0066245. 
 
