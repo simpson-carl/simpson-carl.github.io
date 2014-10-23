@@ -61,7 +61,7 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 </ul>
 </div>
 
-<p>This document describes the calculation of timeseries of diversification rates as used in Simpson et al. (2011) and Simpson (2013).</p>
+<p>I want to describe the calculation of timeseries of diversification rates that I used in Simpson et al. (2011) and Simpson (2013).</p>
 <p>The basic method is simple and there is a function for calculating the rate estimate and likelihood in a specified window of time in the laser package by Rabosky: <code>yule.Window()</code>. But there are a couple of tricks to using it effectively, especially if you want to use an arbitary timescale.</p>
 <pre class="r"><code># This is yuleWindow from laser. But importantly, I've commented out the text
 # outputs. This speeds things up and makes this document shorter.
