@@ -1,3 +1,10 @@
+---
+layout: post
+title: Calculating Diversification Rates
+tags: [R, code, diversification]
+modified: 2014-10-23
+---
+
 Calculating a time series of diversification rates in a time-calibrated molecular phylogeny
 ========================================================
 Carl Simpson
