@@ -7,7 +7,9 @@ modified: 2013-09-23
 image: 
      feature: overgrowth.jpg
 ---
-1. **Simpson, C.** and Erwin, D.H., 2014. Enriching macroevolution. *Science*. 344(6189): 1234-1235.
+1. Seth Finnegan, Sean C. Anderson, Paul G. Harnik, **Carl Simpson**, Derek P. Tittensor, Jarrett E. Byrnes, Zoe V. Finkel, David R. Lindberg, Lee Hsiang Liow, Rowan Lockwood, Heike K. Lotze, Craig M. McClain, Jenny L. 5 McGuire, Aaron O’Dea, John M. Pandolfi (Accepted) Paleontological baselines for evaluating extinction risk in the modern oceans. *Science*.  
+
+2. **Simpson, C.** and Erwin, D.H., 2014. Enriching macroevolution. *Science*. 344(6189): 1234-1235.
 
 11. Hopkins, M., **Simpson, C.**, and Kiessling, W., 2014. Differential niche dynamics among major marine invertebrate clades. *Ecology Letters*. 17(3):314-323. doi: 10.1111/ele.12232.
 
