@@ -1,15 +1,118 @@
 ---
-layout: page
-title: Carl Simpson
-description: Paleobiologist
-tags: [home]
-image:
-    feature: stylopoma.jpg
+layout: default
+title: Macroevolution
 ---
 
+<div class="container">
+  <div class="row">
 
-<ul class="post-list">
-{% for post in site.posts limit:10 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
-{% endfor %}
-</ul>
+ <div class="six columns">  
+      <h5>The work of Carl Simpson</h5><br>
+        <p>Abbott Fellow <br>
+            Department of Paleobiology <br>
+            National Museum of Natural History<br>
+            Smithsonian Institution<br>
+            Washington, D.C. 20013-7012<br>
+            simpsoncg@si.edu</p>
+
+            <a href="https://scholar.google.com/citations?user=zS8EXIQAAAAJ&hl=en"> <small>scholar</small></a>
+
+            <a href="https://twitter.com/simpson_carl"><small>  twitter  </small></a>
+            <a rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml"><small>  rss  </small></a>
+
+
+            </div>
+
+      <div class="six columns"></div>   
+
+<p><img src="../assets/img/me.jpg" style="width: 30%; height: auto"/></p>
+    </div>
+    </div>
+
+<div class="container">
+  <div class="row">
+<div class="twelve columns">  
+      <p> I'm Carl Simpson, a paleobiologist at the Smithsonian's National Museum of Natural History. I work on the evolution and macroevolution of colonial marine invertebrates, especially bryozoans and corals. Bryozoans and corals are structured hierarchically, with a mix of important colony- and zooid-level attributes. I am interested in understanding how their evolution is guided by the interactions between selection at the zooid, the colony, and species levels. </p>
+      </div>
+
+
+    </div>
+    </div>
+
+ 
+
+ 
+<div class="container">
+  <div class="row">
+ <div class="six columns"> 
+ <h1 class="content-listing-header sans">Papers</h1>
+         <hr class="slender">
+
+  <ul class="content">
+    {% for post in site.posts %}
+      {% if post.tags contains 'paper' %}
+      	<a href="{{ post.url }}"><h6 class="contrast">{{ post.title }}</h6></a>
+		  {% endif %}
+    {% endfor %}
+  </ul></div>
+
+
+<div class="six columns"> 
+ <h1 class="content-listing-header sans">Notebook</h1>
+  <ul class="content">
+    {% for post in site.posts %}
+    {% if post.tags contains 'notebook' %}
+        <hr class="slender">
+        <a href="{{ post.url }}"><h6 class="contrast">{{ post.title }}</h6></a>
+        <span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
+   {{ post.content | strip_html | truncatewords: 20 }}
+          {% endif %}
+
+    {% endfor %}
+  </ul></div>
+  </div></div>
+
+<hr class="slender">
+
+
+  <div class="row">
+<div class="twelve columns">
+    <img src="/assets/img/bryo-mast.jpg" width="100%">
+</div></div>
+
+
+<hr class="slender">
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="four columns"> 
+    <h6>Macroevolution</h6>
+        <a href="/sorted-posts/specieselection"><small>Species Selection</small></a><br>
+       <a href="/sorted-posts/trends"> <small>Trends</small></a><br>
+        <a href="/sorted-posts/heritability"><small>Heritability</small></a><br>
+        <a href="/sorted-posts/polymorphism"><small>Polymorphism</small></a><br>
+    </div>
+
+    <div class="four columns"> 
+    <h6>Organisms</h6>
+      <a href="/sorted-posts/bryozoan"><small>Bryozoans</small></a><br>
+      <a href="/sorted-posts/corals"><small>Corals</small></a><br>
+      <a href="/sorted-posts/colonies"><small>Colonies</small></a><br>
+     <a href="/sorted-posts/stylopoma"><small><em>Stylopoma</em></small></a><br>
+    </div>
+
+    <div class="four columns"> 
+    <h6>Methods</h6>
+      <a href="/sorted-posts/priceeq"><small>Price equation</small></a><br>
+      <a href="/sorted-posts/molphylo"><small>Molecular Phylogenetics</small></a><br>
+      <a href="/sorted-posts/paleobiodb"><small>PaleobioDB</small></a> <br>
+      <a href="/sorted-posts/R"><small>R</small></a><br>
+    </div>
+  </div>
+</div>
+
+<hr class="slender">
+

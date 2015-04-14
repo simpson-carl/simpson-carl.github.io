@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Carl Simpson - Macroevolution</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+
+  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+ <script type="text/javascript" src="/js/jquery.sparkline.min.js"></script>
+ <script type="text/javascript" src="/js/jquery.min.js"></script>
+ <script type="text/javascript" src="/js/d3.min.js"></script>
+
+
+
+</head>
+
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>d3 works</title>
+  <meta name="description" content="">
+
+
+  <link rel="stylesheet" href="/css/skeleton.css"> <link rel="stylesheet" href="/css/normalize.css">  
+	
+   <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+  <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+
+
+  <script type="text/javascript" src="/js/jquery.sparkline.min.js"></script>
+  <script type="text/javascript" src="/js/jquery.min.js"></script>
+  <script type="text/javascript" src="/js/d3.min.js"></script>
+
+
+
+ 
+  <link rel="canonical" href="/drafts/2015-04-20-simple.html">
+  <link rel="alternate" type="application/rss+xml" title="Carl Simpson, Macroevolution" href="/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+
+<div class="container">
+	<div class = "row">
+    	<div class="two columns">
+			<h5><a href="/">Home</a></h5></div>
+    	<div class="three columns">
+			<h5><a href="/publications">Publications</a></h5></div>
+		<div class="three columns">
+			<h5><a href="/notebook">Notebook</a></h5></div>
+		<div class="two columns">
+			<h5><a href="https://github.com/simpson-carl">Code</a></h5></div>
+    	<div class="two columns">
+			<h5><a href="/bryozoan">Bryozoans</a></h5></div>
+	</div>
+</div><!-- container -->
+
+
+    <article>
+    <div class="container">
+      <div class="row">
+        <div class="twelve columns">
+          <h1>D3 works</h1>
+		<p>Try it out.</p>
+
+<div id="convas"></div>
+<link href="/css/embed_d3.css" rel="stylesheet" />
+
+<script type="text/javascript" src="http://mbostock.github.com/d3/d3.js?1.25.0"></script>
+
+<script type="text/javascript">
+      var w = 680,
+          h= 500,
+          z = d3.scale.category20(),
+          i = 0;
+      var svg = d3.select("div#convas").append("svg")
+          .attr("width", w)
+          .attr("height", h)
+          .style("pointer-events", "all")
+          .on("mousemove", heart_line);
+      var line = d3.svg.line()
+                    .interpolate("cardinal")
+                    .x(function(d) { return d[0]; })
+                    .y(function(d) { return d[1]; });
+      function heart_shape(x, y, r){
+        var points = [];
+        for (i=0; i<=360; i=i+12){
+          pointX = x -  r*(12*Math.sin(i*Math.PI/180) - 4*Math.sin(3*i*Math.PI/180));
+          pointY = y -  r*(13*Math.cos(i*Math.PI/180) - 5*Math.cos(2*i*Math.PI/180) - 2*Math.cos(3*i*Math.PI/180));
+          points.push([pointX, pointY]);
+        }
+        return points;
+      }
+      function heart_line() {
+        var m = d3.svg.mouse(this); 
+        svg.append("path")
+            .attr("d", function() {return line(heart_shape(m[0], m[1], 1e-6)); })
+            .style("stroke", function() { return z(parseInt(Math.random() * 100));})
+            .style("fill", "none")
+            .style("stroke-opacity", 1)
+            .style("stroke-width", 3.5)
+            .attr('class', 'heart_shape')
+            .transition()
+            .duration(2000)
+            .ease(Math.sqrt)
+            .attr("d", function() { return line(heart_shape(m[0], m[1], 10)); })
+            .style("stroke-opacity", 1e-6)
+            .remove();
+            }
+</script>
+
+
+
+<hr class="slender">
+
+</div>
+        </div>
+      </div>
+    </article>
+  </body>
+</html>

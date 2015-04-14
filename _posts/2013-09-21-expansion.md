@@ -2,9 +2,7 @@
 layout: post
 title: Expansion and the hierarchical structure of levels of selection
 modified: 2013-09-23
-image:
-  feature:
-
+tags: notebook colonies individuality polymorphism
 ---
 
 Evolutionary success comes to the selfish---or so most biologists are taught.  Those organisms that reproduce most will of course be better represented in future generations. Current theory has had great success using this fact to understand much of evolution, but it hits a wall when it comes to understanding how primitively solitary organisms can aggregate together to form new wholes. Current theory predicts that the evolution of new wholes is undermined by the selfishness of the parts; if the parts keep reproducing an emergent whole can’t originate.  Yet every animal is a living contradiction of current theory.  During development animal cells divide in the same way their solitary ancestors reproduced, while concurrently the whole animal reproduces itself. 

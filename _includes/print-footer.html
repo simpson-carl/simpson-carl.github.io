@@ -1,0 +1,4 @@
+
+<span class="print-footer">
+<div class="twelve columns">
+{% if page.date %}{{ page.title }} - {{ page.date | date: "%B %-d, %Y" }} - {{site.author}}{% else %}{{ page.title }} - {{site.author}}{% endif %}</div></span>

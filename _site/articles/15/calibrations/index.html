@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Carl Simpson - Macroevolution</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+
+  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+ <script type="text/javascript" src="/js/jquery.sparkline.min.js"></script>
+ <script type="text/javascript" src="/js/jquery.min.js"></script>
+ <script type="text/javascript" src="/js/d3.min.js"></script>
+
+
+
+</head>
+
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Simple Method for Estimating Informative Node Age Priors for the Fossil Calibration of Molecular Divergence Time Analyses</title>
+  <meta name="description" content="Nowak, M. D., Smith, A. B., Simpson, C., and Zwickl, D. J. 2013. A Simple Method for Estimating Informative Node Age Priors for the Fossil Calibration of Mol...">
+
+
+  <link rel="stylesheet" href="/css/skeleton.css"> <link rel="stylesheet" href="/css/normalize.css">  
+	
+   <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+  <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+
+
+  <script type="text/javascript" src="/js/jquery.sparkline.min.js"></script>
+  <script type="text/javascript" src="/js/jquery.min.js"></script>
+  <script type="text/javascript" src="/js/d3.min.js"></script>
+
+
+
+ 
+  <link rel="canonical" href="/articles/15/calibrations">
+  <link rel="alternate" type="application/rss+xml" title="Carl Simpson, Macroevolution" href="/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+
+<div class="container">
+	<div class = "row">
+    	<div class="two columns">
+			<h5><a href="/">Home</a></h5></div>
+    	<div class="three columns">
+			<h5><a href="/publications">Publications</a></h5></div>
+		<div class="three columns">
+			<h5><a href="/notebook">Notebook</a></h5></div>
+		<div class="two columns">
+			<h5><a href="https://github.com/simpson-carl">Code</a></h5></div>
+    	<div class="two columns">
+			<h5><a href="/bryozoan">Bryozoans</a></h5></div>
+	</div>
+</div><!-- container -->
+
+
+    <article>
+    <div class="container">
+      <div class="row">
+        <div class="twelve columns">
+          <h1>Simple method for estimating informative node age priors for the fossil calibration of molecular divergence time analyses</h1>
+		<p>Nowak, M. D., Smith, A. B., Simpson, C., and Zwickl, D. J. 2013. A Simple Method for Estimating Informative Node Age Priors for the Fossil Calibration of Molecular Divergence Time Analyses. <em>PLoS ONE</em> 8(6): e66245. doi:10.1371/journal.pone.0066245. <a href="/papers/PloS one 2013 Nowak.pdf">pdf</a></p>
+
+<p>Molecular divergence time analyses often rely on the age of fossil lineages to calibrate node age estimates. Most divergence time analyses are now performed in a Bayesian framework, where fossil calibrations are incorporated as parametric prior probabilities on node ages. It is widely accepted that an ideal parameterization of such node age prior probabilities should be based on a comprehensive analysis of the fossil record of the clade of interest, but there is currently no generally applicable approach for calculating such informative priors. We provide here a simple and easily implemented method that employs fossil data to estimate the likely amount of missing history prior to the oldest fossil occurrence of a clade, which can be used to fit an informative parametric prior probability distribution on a node age. Specifically, our method uses the extant diversity and the stratigraphic distribution of fossil lineages confidently assigned to a clade to fit a branching model of lineage diversification. Conditioning this on a simple model of fossil preservation, we estimate the likely amount of missing history prior to the oldest fossil occurrence of a clade. The likelihood surface of missing history can then be translated into a parametric prior probability distribution on the age of the clade of interest. We show that the method performs well with simulated fossil distribution data, but that the likelihood surface of missing history can at times be too complex for the distribution-fitting algorithm employed by our software tool. An empirical example of the application of our method is performed to estimate echinoid node ages. A simulation-based sensitivity analysis using the echinoid data set shows that node age prior distributions estimated under poor preservation rates are significantly less informative than those estimated under high preservation rates.</p>
+
+<p><img src="/assets/img/snape.png" width="500px" /></p>
+
+<p>Our method provides an estimate for the length of time after age of the MRCA of a clade but prior to the age of the oldest fossil (i.e. the missing history). This hypothetical clade has N = 11 lineages at time T, representing the current standing diversity of the group. Thick bars on the internal branches of the tree represent the preserved fossil history of the clade, such that n = 1 lineage preserved at time t. The expressions for deriving the probability of the three key temporal durations in the history of a clade are shown.</p>
+
+
+
+<hr class="slender">
+
+</div>
+        </div>
+      </div>
+    </article>
+  </body>
+</html>

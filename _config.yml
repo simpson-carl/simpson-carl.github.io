@@ -1,47 +1,38 @@
-title:            Carl Simpson
-#description:      Macroevolutionary biology, colonies, code.
-logo:          	  cartoon.png   
-#disqus_shortname: 
-search:           false
-#Comment out url when working locally to resolve base urls correctly
-url:             http://simpson-carl.github.io
+baseurl: 
+title: Carl Simpson, Macroevolution
+subtitle:
+author: Carl Simpson
+simple_search: http://google.com/search
 
-# Owner/author information
-owner:
-  name:           Carl Simpson
-  avatar:         Carl-Simpson-photo.jpg
-  email:          simpsoncg@si.edu
-  # Social networking links used in footer. Update and remove as you like.
-  twitter: simpson_carl
-  facebook: carl.g.simpson
-  github:   simpson-carl
-#  linkedin:
-#  instagram:
-#  tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    "https://plus.google.com/u/0/100114596372940794423"
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-52984046-1'
 
-# Analytics and webmaster tools stuff goes here
-google_analytics: UA-52984046-1
+description: 
+name: Carl Simpson
+markdown: Kramdown
+kramdown:  
+  input: GFM
 
-#google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-#bing_verify:
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About
-    url: /about
-  - title: Publications
-    url: /publications
-  - title: Posts
-    url: /articles
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-pygments:    true
-markdown:    rdiscount
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:  /:year/:month/:day/:title 
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+syntax_highlighter: rouge
+titlecase: true
+permalink: /articles/:short_year/:title
+timezone: America/New_York
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+editor: subl
+git:
+  branch: master
+transfer:
+  command: rsync
+  settings: -av
+  source: _site/
+  destination: ~/git-pages/simpson-homwbrewed/

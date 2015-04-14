@@ -1,64 +1,945 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Carl Simpson</title>
+<title type="text">Carl Simpson, Macroevolution</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://simpson-carl.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="http://simpson-carl.github.io" />
-<updated>2014-06-13T11:38:14-04:00</updated>
-<id>http://simpson-carl.github.io/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2015-04-14T11:10:06-04:00</updated>
+<id>/</id>
 <author>
-  <name>Carl Simpson</name>
-  <uri>http://simpson-carl.github.io/</uri>
-  <email>simpsoncg@si.edu</email>
+  <name></name>
+  <uri>/</uri>
+  <email></email>
 </author>
 
 
 <entry>
-  <title type="html"><![CDATA[Expansion and the hierarchical structure of levels of selection]]></title>
-  <link>http://simpson-carl.github.io/2013/09/21/expansion</link>
-  <id>http://simpson-carl.github.io/2013/09/21/expansion</id>
-  <updated>2013-09-23T00:00:00-00:00</updated>
-  <published>2013-09-21T00:00:00-04:00</published>
-  
+  <title type="html"><![CDATA[Paleontological baselines for evaluating extinction risk in the modern oceans]]></title>
+  <link>/articles/15/maps</link>
+  <id>/articles/15/maps</id>
+  <published>2015-04-17T00:00:00-04:00</published>
+  <updated>2015-04-17T00:00:00-04:00</updated>
   <author>
-    <name>Carl Simpson</name>
-    <uri>http://simpson-carl.github.io</uri>
-    <email>simpsoncg@si.edu</email>
+    <name></name>
+    <uri></uri>
+    <email></email>
   </author>
-  <content type="html">&lt;p&gt;Evolutionary success comes to the selfish---or so most biologists are taught.  Those organisms that reproduce most will of course be better represented in future generations. Current theory has had great success using this fact to understand much of evolution, but it hits a wall when it comes to understanding how primitively solitary organisms can aggregate together to form new wholes. Current theory predicts that the evolution of new wholes is undermined by the selfishness of the parts; if the parts keep reproducing an emergent whole can’t originate.  Yet every animal is a living contradiction of current theory.  During development animal cells divide in the same way their solitary ancestors reproduced, while concurrently the whole animal reproduces itself.&lt;/p&gt;
+  <content type="html">&lt;p&gt;Seth Finnegan, Sean C. Anderson, Paul G. Harnik, Carl Simpson, Derek P. Tittensor, Jarrett E. Byrnes, Zoe V. Finkel, David R. Lindberg, Lee Hsiang Liow, Rowan Lockwood, Heike K. Lotze, Craig M. McClain, Jenny L. McGuire, Aaron O’Dea, John M. Pandolfi (Accepted) Paleontological baselines for evaluating extinction risk in the modern oceans. &lt;em&gt;Science&lt;/em&gt;. &lt;a href=&quot;/papers/Science 2014 Simpson.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;It's not that our theories are wrong; it is just that what we traditionally call evolutionary success is overly myopic.  In the formulation I am developing, one that is explicitly hierarchical in structure, I consider three general ways for frequencies of units to increase over time and so be considered successful: (1) Differential persistence of units. (2) Differential multiplication of units. (3) Differential expansion of units. Any combination of these can occur.  Only the first two aspects of selection are incorporated into current theory. Expansive fitness looks, from the higher level, like growth. But from the lower level, it appears as the differential multiplication of parts. For example, a coral colony grows when its constituent zooids increase in number.  Once one adopts a hierarchical framework, one can incorporate the notion of expansive fitness, a key concept that has been missing. Expansion allows us to translate units of fitness at one level into units at another. Population growth at one level is expansion at the next level up.  You can see expansion in action during animal development: through cell division, the animal grows.  The important role of differential expansion in evolution has barely been recognized even though it may be the most common mode of multilevel selection.&lt;/p&gt;
+&lt;p&gt;Marine ecosystems are increasingly threatened by direct and indirect anthropogenic impacts, but knowledge of the underlying extinction vulnerabilities of marine taxa is limited. The fossil record provides rich but underutilized information on past extinctions that can help predict current and future biotic responses. We show that over the past 23 million years, taxonomic membership and geographic range size consistently explain a large proportion of variation in extinction risk among marine genera in six major taxonomic groups. We assess intrinsic risk — the extinction risk predicted by a paleontologically calibrated model — for modern genera in these groups. Mapping the geographic distribution of these genera identifies coastal biogeographic provinces where fauna with high mean intrinsic risk are strongly impacted by human activity or climate change. Such regions are disproportionately located in the tropics, raising the possibility that these biologically diverse ecosystems may be particularly vulnerable to future extinctions. Integrating paleontological baselines with modern risk assessments based on detailed but short-term observations will more accurately inform marine management and conservation.&lt;/p&gt;
 
-&lt;p&gt;The practical and conceptual consequences of incorporating expansion into our theories of natural selection promises to be profound. The immediate payoff of is the ability to understand how selection can act and interact simultaneously at different levels; something that is not accommodated by standard theory, where lower levels of selection must directly oppose or be turned off for higher levels to be effective.   What we still don’t understand, and what I will focus on in my theoretical and empirical research, is the effect of interacting levels of selection on the origin and evolution of adaptations.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/maps.png&quot; width=&quot;500px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Adaptations are always the products of natural selection, but they are thought to most often arise when selection is dominated by differential multiplication.  However, when selection occurs at multiple levels, oftentimes parts and wholes both multiply independently and the selective cause of adaptations can be murky.  Is it possible to decompose the evolution of an adaptation into the separate contributions from multiple levels of selection?  It is, but it requires an understanding of how the various parts in the whole interact with each other and how they are structured developmentally. Given that knowledge, the correlation between parts and the multiplication component of fitness at multiple levels can be made precise. New theoretical work is needed to understand this problem.&lt;/p&gt;
 
-&lt;p&gt;One promising empirical application of my work is the examination of the origin and early evolution of development during transitions in individuality, where primitively solitary organisms aggregate into new wholes.  How can development evolve from previously independent parts?  Are there any processes of development that increase the efficacy of multilevel selection?  I am interested in testing predictions about how development evolves between and among metazoans that have varying degrees of clonal growth (thus varying degrees of the expansive component of fitness). For example, we could predict systematic differences in developmental processes between animals with either a significant component of expansive fitness or in animals where expansion is absent.  These predictions would allow us to identify the types of innovations in developmental processes needed for the origin of the bilaterian animal phyla (in which expansion plays a minor role) during the Cambrian explosion.&lt;/p&gt;
-
-&lt;p&gt;At the macroevolutionary scale, theoretical work on multilevel adaptations allows me to ask a previously taboo question in a precise and falsifiable way:  can adaptations occur at the community level?  Here I am interested in testing the new theory on empirical data, focusing on the evolution of one of the oceans most important biomes, reefs.  Thus, for example, by identifying the patterns of differential expansion, origination and extinction across levels I can determine at what levels natural selection acts in and among reef communities. In reef communities, there are three putative levels: expansion and collapse of reef communities at the highest level, origination and extinction of reef genera at an intermediate level, and the expansion of reef genera are at the lowest level.   When reefs are globally widespread they are observed to be more similar to each other. Is this pattern the byproduct of organismal selection or a result of selection acting on communities directly? Setting up the problem using multilevel selection theory with expansion will allow me to estimate the contribution (if any) of selection at each level in patterning reef evolution and assess the potential for community-level adaptation.&lt;/p&gt;
-
-&lt;p&gt;An additional empirical application is in human cultural evolution, where changes in cultural traits are potentially controlled by organismal-level selection, selection at the level of human groups, or they can be non-adaptive.  It is possible to identify the level and strength (including no selection) by the covariance of traits with demographic processes at both the organismal and group levels.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://simpson-carl.github.io/2013/09/21/expansion&quot;&gt;Expansion and the hierarchical structure of levels of selection&lt;/a&gt; was originally published by Carl Simpson at &lt;a href=&quot;http://simpson-carl.github.io&quot;&gt;Carl Simpson&lt;/a&gt; on September 21, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/15/maps&quot;&gt;Paleontological baselines for evaluating extinction risk in the modern oceans&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 17, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Code]]></title>
-  <link>http://simpson-carl.github.io/2013/09/21/code</link>
-  <id>http://simpson-carl.github.io/2013/09/21/code</id>
-  <updated>2013-09-23T00:00:00-00:00</updated>
-  <published>2013-09-21T00:00:00-04:00</published>
-  
+  <title type="html"><![CDATA[Enriching macroevolution]]></title>
+  <link>/articles/15/homology</link>
+  <id>/articles/15/homology</id>
+  <published>2015-04-16T00:00:00-04:00</published>
+  <updated>2015-04-16T00:00:00-04:00</updated>
   <author>
-    <name>Carl Simpson</name>
-    <uri>http://simpson-carl.github.io</uri>
-    <email>simpsoncg@si.edu</email>
+    <name></name>
+    <uri></uri>
+    <email></email>
   </author>
-  <content type="html">&lt;p&gt;My main motivation to host this site on github is to share code for macroevolutionary studies.
-I'll be posting code for using the Price equation for macroevolutionary studies. There will be fossil and phylogenetic versions. I'll add some useful R functions for plotting geological timescales, and some of my utility functions for processing data from the Paleobiology Database.&lt;/p&gt;
+  <content type="html">&lt;p&gt;Simpson, C. and Erwin, D.H., 2014. Enriching macroevolution. &lt;em&gt;Science&lt;/em&gt;. 344(6189): 1234-1235. &lt;a href=&quot;/papers/Science 2014 Simpson.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://simpson-carl.github.io/2013/09/21/code&quot;&gt;Code&lt;/a&gt; was originally published by Carl Simpson at &lt;a href=&quot;http://simpson-carl.github.io&quot;&gt;Carl Simpson&lt;/a&gt; on September 21, 2013.&lt;/p&gt;</content>
+&lt;p&gt;Review of &lt;em&gt;Homology, Genes, and Evolutionary Innovation&lt;/em&gt;&lt;br /&gt;
+Günter P. Wagner Princeton University Press, 2014. 494 pp&lt;/p&gt;
+
+&lt;p&gt;What drives evolutionary innovation? This question has become a central focus of evolutionary biologists over the past decade as comparative evolutionary developmental biology (“evo-devo”) has established a mechanistic basis for understanding the evolution of form and, increasingly, the evolution of developmental processes themselves. The challenge has been to build a conceptual framework that makes sense of the facts of development and explains how development can evolve while producing viable offspring. Prior to the codification of evo-devo, heterochrony was invoked for this purpose (1). Heterochrony produces new phenotypes by varying the rates of somatic and reproductive maturation, and for a time it was a promising conceptual organizer of develop- mental evolution. But heterochrony can only modify existing allometric variation and thus cannot explain the origin of novel traits—and the history of life is strung with novel traits.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/homology&quot;&gt;Enriching macroevolution&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 16, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Differential niche dynamics among major marine invertebrate clades]]></title>
+  <link>/articles/15/affinity</link>
+  <id>/articles/15/affinity</id>
+  <published>2015-04-16T00:00:00-04:00</published>
+  <updated>2015-04-16T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Hopkins, M., Simpson, C., and Kiessling, W., 2014. Differential niche dynamics among major marine invertebrate clades. &lt;em&gt;Ecology Letters&lt;/em&gt;. 17(3):314-323. doi: 10.1111/ele.12232. &lt;a href=&quot;/papers/Ecol Lett 2013 Hopkins.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The degree to which organisms retain their environmental preferences is of utmost importance in predicting their fate in a world of rapid climate change. Notably, marine invertebrates frequently show strong affinities for either carbonate or terrigenous clastic environments. This affinity is due to characteristics of the sediments as well as correlated environmental factors. We assessed the conservatism of substrate affinities of marine invertebrates over geological timescales, and found that niche conservatism is prevalent in the oceans, and largely determined by the strength of initial habitat preference. There is substantial variation in niche conservatism among major clades with corals and sponges being among the most conservative. Time-series analysis suggests that niche conservatism is enhanced during times of elevated nutrient flux, whereas niche evolution tends to occur after mass extinctions. Niche evolution is not necessarily elevated in genera exhibiting higher turnover in species composition.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/affinity.png&quot; width=&quot;500px&quot; /&gt;&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/affinity&quot;&gt;Differential niche dynamics among major marine invertebrate clades&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 16, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Simple Method for Estimating Informative Node Age Priors for the Fossil Calibration of Molecular Divergence Time Analyses]]></title>
+  <link>/articles/15/calibrations</link>
+  <id>/articles/15/calibrations</id>
+  <published>2015-04-15T00:00:00-04:00</published>
+  <updated>2015-04-15T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Nowak, M. D., Smith, A. B., Simpson, C., and Zwickl, D. J. 2013. A Simple Method for Estimating Informative Node Age Priors for the Fossil Calibration of Molecular Divergence Time Analyses. &lt;em&gt;PLoS ONE&lt;/em&gt; 8(6): e66245. doi:10.1371/journal.pone.0066245. &lt;a href=&quot;/papers/PloS one 2013 Nowak.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Molecular divergence time analyses often rely on the age of fossil lineages to calibrate node age estimates. Most divergence time analyses are now performed in a Bayesian framework, where fossil calibrations are incorporated as parametric prior probabilities on node ages. It is widely accepted that an ideal parameterization of such node age prior probabilities should be based on a comprehensive analysis of the fossil record of the clade of interest, but there is currently no generally applicable approach for calculating such informative priors. We provide here a simple and easily implemented method that employs fossil data to estimate the likely amount of missing history prior to the oldest fossil occurrence of a clade, which can be used to fit an informative parametric prior probability distribution on a node age. Specifically, our method uses the extant diversity and the stratigraphic distribution of fossil lineages confidently assigned to a clade to fit a branching model of lineage diversification. Conditioning this on a simple model of fossil preservation, we estimate the likely amount of missing history prior to the oldest fossil occurrence of a clade. The likelihood surface of missing history can then be translated into a parametric prior probability distribution on the age of the clade of interest. We show that the method performs well with simulated fossil distribution data, but that the likelihood surface of missing history can at times be too complex for the distribution-fitting algorithm employed by our software tool. An empirical example of the application of our method is performed to estimate echinoid node ages. A simulation-based sensitivity analysis using the echinoid data set shows that node age prior distributions estimated under poor preservation rates are significantly less informative than those estimated under high preservation rates.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/snape.png&quot; width=&quot;500px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our method provides an estimate for the length of time after age of the MRCA of a clade but prior to the age of the oldest fossil (i.e. the missing history). This hypothetical clade has N = 11 lineages at time T, representing the current standing diversity of the group. Thick bars on the internal branches of the tree represent the preserved fossil history of the clade, such that n = 1 lineage preserved at time t. The expressions for deriving the probability of the three key temporal durations in the history of a clade are shown.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/calibrations&quot;&gt;Simple Method for Estimating Informative Node Age Priors for the Fossil Calibration of Molecular Divergence Time Analyses&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 15, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Species selection and the macroevolution of coral photosymbiosis and coloniality]]></title>
+  <link>/articles/15/coral-photosymbmd</link>
+  <id>/articles/15/coral-photosymbmd</id>
+  <published>2015-04-14T00:00:00-04:00</published>
+  <updated>2015-04-14T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Simpson, C. 2013. Species selection and the macroevolution of coral photosymbiosis and coloniality. &lt;em&gt;Evolution&lt;/em&gt; 67(6): 1607-1621 &lt;a href=&quot;/papers/Evolution 2013 Simpson.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Differences in the relative diversification rates of species with variant traits are known as species selection. Species selection can produce a macroevolutionary change in the frequencies of traits by changing the relative number of species possessing each trait over time. But species selection is not the only process that can change the frequencies of traits, phyletic microevolution of traits within species and phylogenetic trait evolution among species, the tempo and mode of microevolution can also change trait frequencies. Species selection, phylogenetic, and phyletic processes can all contribute to large-scale trends, reinforcing or canceling each other out. Even more complex interactions among macroevolutionary processes are possible when multiple covarying traits are involved. Here I present a multilevel macroevolutionary framework that is useful for understanding how macroevolutionary processes interact. It is useful for empirical studies using fossils, molecular phylogenies, or both. I illustrate the framework with the macroevolution of coloniality and photosymbiosis in scleractinian corals using a time-calibrated molecular phylogeny. I find that standing phylogenetic variation in coloniality and photosymbiosis deflects the direction of macroevolution from the vector of species selection. Variation in these traits constrains species selection and results in a 200 million year macroevolutionary equilibrium.&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;five columns&quot;&gt;
+
+The relative frequency of &lt;span style=&quot;color: #CD4F39&quot;&gt; coloniality &lt;/span&gt; and &lt;span style=&quot;color: #4F94CD&quot;&gt; photosymbiosis &lt;/span&gt; since the Jurassic. After an initial period of dissociation, a 200 million year phase of coupled change and stability is observed. A microevolutionary link between coloniality and photosymbiosis constrains the response to species selection for coloniality and non-photosymbiosis.&lt;/div&gt;
+    &lt;div class=&quot;seven columns&quot;&gt;
+    &lt;img src=&quot;/assets/img/fq-plot.png&quot; width=&quot;400px&quot; /&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+ &lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/coral-photosymbmd&quot;&gt;Species selection and the macroevolution of coral photosymbiosis and coloniality&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 14, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Equatorial decline of reef corals during the last Pleistocene interglacial]]></title>
+  <link>/articles/15/coral-lat</link>
+  <id>/articles/15/coral-lat</id>
+  <published>2015-04-13T00:00:00-04:00</published>
+  <updated>2015-04-13T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Kiessling, W., Simpson, C., Beck, B., Mewis, H. &amp;amp; Pandolfi, J. 2012. Equatorial decline of reef corals during the last Pleistocene interglacial. &lt;em&gt;PNAS&lt;/em&gt;. 109(52): 21378-21383. doi:10.1073/pnas.1214037110 &lt;a href=&quot;/papers/Proc Natl Acad Sci USA 2012 Kiessling.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Last Interglacial (LIG; ca. 125,000 y ago) resulted from rapid global warming and reached global mean temperatures exceeding those of today. The LIG thus offers the opportunity to study how life may respond to future global warming. Using global occurrence databases and applying sampling-standardization, we compared reef coral diversity and distributions between the LIG and modern. Latitudinal diversity patterns are characterized by a tropical plateau today but were characterized by a pronounced equatorial trough during the LIG. This trough is governed by substantial range shifts away from the equator. Range shifts affected both leading and trailing edges of species range limits and were much more pronounced in the Northern Hemisphere than south of the equator. We argue that interglacial warming was responsible for the loss of equatorial diversity. Hemispheric differences in insolation during the LIG may explain the asymmetrical response. The equatorial retractions are surprisingly strong given that only small temperature changes have been reported in the LIG tropics. Our results suggest that the poleward range expansions of reef corals occurring with intensified global warming today may soon be followed by equatorial range retractions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/coral-lat.png&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/coral-lat&quot;&gt;Equatorial decline of reef corals during the last Pleistocene interglacial&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 13, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Add a timescale to a figure]]></title>
+  <link>/articles/15/timescales.to.base</link>
+  <id>/articles/15/timescales.to.base</id>
+  <published>2015-04-12T00:00:00-04:00</published>
+  <updated>2015-04-12T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h4 id=&quot;timescales-on-figures-are-helpful&quot;&gt;Timescales on figures are helpful&lt;/h4&gt;
+&lt;p&gt;It is a good idea to add geological timescales to plots that show patterns over the Phanerozic. Timescales help the reader orient themselves with the new and interesting data that we want to show them. They can see more detail and with this orientation it is also easier for them to critically evaluate the pattern in the plot. Having a timescale on a plot is a win for the reader and it is a win for the author.&lt;/p&gt;
+
+&lt;p&gt;There are lots of ways to add a timescale to a figure. Some are minimal, with the timescale flowing along the bottom as an addendum to the &lt;script type=&quot;math/tex&quot;&gt;x&lt;/script&gt;-axis that serves only to link an interval name to a time in millions of years. Other ways of adding a timescale take up more space in the figure. The timescale can flow behind the data making it easy to see when a pattern takes place. The most maximal approaches take the color scheme and all the subdivisions from the official timescale and add all of that information to the figure. This maximilist approach has a unique color for every stage. The rainbow of timescale colors duplicates in color the information that is contained in the space along the &lt;script type=&quot;math/tex&quot;&gt;x&lt;/script&gt;-axis. For example, the timing of a data point at the end of the Cretasious will be shown in the color of the timescale and in the position along the horizontal axis. A colored timescale also limits the choice we have of using colors to show different aspects of data without accedentially using a color that also indicates a specific time.&lt;/p&gt;
+
+&lt;p&gt;In any figure, the data is the most important aspect. We make a figure to show a pattern in the data. A timescale should add to the interpratability of the data and the pattern that we are showing. The timescale shouldn’t get in the way, obscure, or take prominance.&lt;/p&gt;
+
+&lt;p&gt;The features that I have found to be most affective in adding context to data without getting in the way are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;An un-filled ribbon with coarse-scale geological period or epoch names that run parallel to the &lt;script type=&quot;math/tex&quot;&gt;x&lt;/script&gt;-axis.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A backdrop of alternating light-grey values that show intervals that are the same level as the ribbon or one step finer in resolution. It is important that the backdrop is much coaser than the scale that we plot the data.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’ve fiddled with these details in the figures I’ve made and published. Over time, I’ve settled on a basic set starting rules for creating the backdrop and ribbon. I’ve life to start with a stage-level backdrop and a ribbon showing epochs when plotting data that is restricted to the Cenozoic or other single Period. If the figure shows a pattern that is Phanerozoic-scale or more, then the backdrop and the ribbon are no finer than period-level. In between these extremes, if my plot spans multiple periods, but less than the whole Phanerozoic, then my backdrop shows epochs and the ribbon shows the periods.&lt;/p&gt;
+
+&lt;p&gt;Sometimes the purpose of the figure itself suggests a different style of timescale. I want to make it easy to try all of these possabilities out and find the best solution for  each figure. For this purpose, I’ve written some functions that add timescales to R plots. This makes it easy to add in and swap different timescales easily. I’ve made functions for base plots that are added to figures after the plot is defined but before the data are plotted.&lt;/p&gt;
+
+&lt;p&gt;The grey backdrop serves to make tone down the timescale and to highlight the data. But it is important to chose the level of greys and the difference between them carefully.Too much difference between alternating greys can make segments of a single color look different as it passes across the backdrop:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/knitr-figs/fig1-1.png&quot; alt=&quot;plot of chunk fig1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;See how the blue line shifts color as it crosses from dark to light grey bars? This effect should be minimized as much as possible because it is addes noise to a figure. As our figures become more complicated, this noise will start to get in the way and make it difficult to read.&lt;/p&gt;
+
+&lt;p&gt;The greys are too disimilar in the plot above. If we keep the grey bars close in value we can mimimize the appearent color chnage of out data. So that the similarity helps to keep the colors we use to plot data easily comparable across time. Through experimentation I’ve settled on a set of greys that work well, at least as a starting point. The difference between &lt;code&gt;grey90&lt;/code&gt; and &lt;code&gt;grey95&lt;/code&gt; remain slight enough to minimize the apperent color changes as our data spans the timescale, but they are also visually distinct enough to keep the timescale legible.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/knitr-figs/fig2-1.png&quot; alt=&quot;plot of chunk fig2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If this backdrop is too light, the specific greys can be changed. But in my experience, an interval of 5 between greys works best. So as the backdrop can is darkerned keep the greys 5 units apart.&lt;/p&gt;
+
+&lt;h4 id=&quot;a-basic-time-series&quot;&gt;A basic time series&lt;/h4&gt;
+&lt;p&gt;For these examples, I’ll plot time series of extinction rates. These examples are patterns of extinction for marine invertebrates over the Phanerozoic, including splits for physiologically buffered and unbuffered taxa (from Kiessling and Simpson 2011).&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;ext &amp;lt;- read.csv(&quot;~/Dropbox/projects/Rmarkdown/timescales/ext.csv&quot;, header = T)
+
+plot(ext$$Age.Ma, ext$$q, type = &quot;l&quot;, xlim = c(550, 0), xlab = &quot;Age (Ma)&quot;, ylab = &quot;Extinction rate&quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&quot;/knitr-figs/basicfig-1.png&quot; alt=&quot;plot of chunk basicfig&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a bare-bones figure. With the functions below, we will add timescales to these basic figures.&lt;/p&gt;
+
+&lt;h4 id=&quot;some-functions-and-examples&quot;&gt;Some functions and examples&lt;/h4&gt;
+&lt;p&gt;First, let’s load a fucntion that draws a timescale with a ribbon and backdrop demarking the periods over the Phanerozoic.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;tscales.period &amp;lt;- function(top, bot, s.bot, ...) {
+    bases &amp;lt;- read.csv(&quot;~/Dropbox/projects/Rmarkdown//timescales/periods.csv&quot;, 
+        header = T)
+    cc &amp;lt;- rep(c(&quot;grey95&quot;, &quot;grey97 &quot;), length(bases))
+    
+    rect(xleft = bases[-12, 2], ybottom = rep(bot, 11), xright = bases[-1, 2], 
+        ytop = rep(top, 11), col = cc, border = NA)
+    
+    rect(xleft = bases[-12, 2], ybottom = rep(bot, 11), xright = bases[-1, 2], 
+        ytop = rep(s.bot, 11), border = &quot;grey90&quot;)
+    
+    bt &amp;lt;- (bot + s.bot)/2
+    tpl &amp;lt;- bases[, 2] + c(diff(bases[, 2])/2, 0)
+    
+    text(x = tpl[-12], y = bt[-12], labels = bases[1:11, 1])
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If we just append a plot command with this function you’ll get this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;plot(ext$$Age.Ma, ext$$q, type = &quot;l&quot;, xlim = c(550, 0), xlab = &quot;Age (Ma)&quot;, ylab = &quot;Extinction rate&quot;)
+
+tscales.period(1.4, 0, -0.1)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&quot;/knitr-figs/tscale1-1.png&quot; alt=&quot;plot of chunk tscale1&quot; /&gt; &lt;br /&gt;
+Which is not very helpful.&lt;/p&gt;
+
+&lt;p&gt;So, I like to define a plot region with some extra space for the ribbon and also without drawing anything. Then I add in:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the timescale&lt;/li&gt;
+  &lt;li&gt;the data&lt;/li&gt;
+  &lt;li&gt;the axes and axis labels&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;plot(ext$$Age.Ma, ext$$q, type = &#39;n&#39;, 
+       xlim = c(550,0), ylim = c(-0.1, 1.5),
+       axes = F, xlab = &quot;&quot;, ylab = &quot;&quot;)
+
+tscales.period(1.5, 0, -0.1)
+
+lines(ext$$Age.Ma, ext$$q, lwd = 2)
+
+axis(1, col = &#39;grey75&#39;, line = -0.5)
+axis(2, col = &#39;grey75&#39;, line = -2, at = seq(0, 1.5, 0.25))
+
+mtext(&quot;Age (Ma)&quot;, side = 1, line = 1.5)
+mtext(&quot;Extinction rate&quot;, side = 2, line = 1)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&quot;/knitr-figs/tscale.all-1.png&quot; alt=&quot;plot of chunk tscale.all&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It took a few tweeks of s.bot and the bottom limit of ylim to line things up right. I also like to adjust the axis position and specify the tick marks at this time. This figure is nice and clean, with the pattern highlighted and quietly supported by the timescale.&lt;/p&gt;
+
+&lt;p&gt;Now a timescale function with the backdrop showing epochs.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;tscales.epoch &amp;lt;- function(top, bot, s.bot){
+  labels &amp;lt;- read.csv(&quot;~/Dropbox/projects/Rmarkdown//timescales/periods.csv&quot;, header = T)
+  bases &amp;lt;- as.vector(read.csv(&quot;~/Dropbox/projects/Rmarkdown/timescales/epochs.csv&quot;, header = T))
+  end &amp;lt;- dim(bases)[1]
+  cc &amp;lt;- rep(c(&quot;grey95&quot;,&quot;grey97 &quot;),length(bases))
+
+  rect(xleft = bases[-end,], ybottom = rep(bot, end), xright = bases[-1,],
+       ytop = rep(top, end), col = cc, border=NA)
+
+  rect(xleft = labels[-12, 2], ybottom = rep(bot,11), xright = labels[-1, 2],
+       ytop = rep(s.bot, 11), border = &#39;grey90&#39;)
+  
+  bt &amp;lt;- (bot+s.bot)/2
+  tpl &amp;lt;- labels[,2]+c(diff(labels[,2])/2,0)
+
+  text(x=tpl[-12], y=bt[-12], labels = labels[1:11, 1])
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;plot(ext$$Age.Ma, ext$$q, type = &#39;n&#39;, 
+       xlim = c(550,0), ylim = c(-0.1, 1.5),
+       axes = F, xlab = &quot;&quot;, ylab = &quot;&quot;)
+
+tscales.epoch(1.5, 0,  -0.1)
+
+lines(ext$$Age.Ma, ext$$q, lwd = 2)
+
+axis(1, col = &#39;grey75&#39;, line = -0.5)
+axis(2, col = &#39;grey75&#39;, line = -2, at = seq(0, 1.5, 0.25))
+
+mtext(&quot;Age (Ma)&quot;, side = 1, line = 1.5)
+mtext(&quot;Extinction rate&quot;, side = 2, line = 1)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&quot;/knitr-figs/tscale.epoch-1.png&quot; alt=&quot;plot of chunk tscale.epoch&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At this scale it is a bit noisy. So let’s zoom in on this time series, and make a few scaling adjustments to keep the ribbon just larger than the text.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;plot(ext$$Age.Ma, ext$$q, type = &#39;n&#39;, 
+       xlim = c(250,0), ylim = c(-0.1, 0.7),
+       axes = F, xlab = &quot;&quot;, ylab = &quot;&quot;)
+
+tscales.epoch(0.7, 0, -0.05)
+
+lines(ext$$Age.Ma, ext$$q, lwd = 2)
+
+axis(1, col = &#39;grey75&#39;, line = -1.5)
+axis(2, col = &#39;grey75&#39;, line = 1, at = seq(0, 0.5, 0.25))
+
+mtext(&quot;Age (Ma)&quot;, side = 1, line = 1.0)
+mtext(&quot;Extinction rate&quot;, side = 2, line = 3)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&quot;/knitr-figs/tscale.epoch.zoom-1.png&quot; alt=&quot;plot of chunk tscale.epoch.zoom&quot; /&gt; &lt;br /&gt;
+At this scale, an epoch-level backdrop works well. We can use it to orient ourselves within each period but it does not distract us from the patterns we want to show.&lt;/p&gt;
+
+&lt;p&gt;Even with two time series (both plotted in grey with labels), this backdrop does not get busy.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;plot(ext$$Age.Ma, ext$$q, type = &#39;n&#39;, 
+       xlim = c(250,0), ylim = c(-0.1, 0.9),
+       axes = F, xlab = &quot;&quot;, ylab = &quot;&quot;)
+
+tscales.epoch( 0.9, 0, -0.05)
+
+lines(ext$$Age.Ma, ext$$unb, lwd = 2, col = &#39;grey35&#39;)
+lines(ext$$Age.Ma, ext$$ext.oth.b, lwd = 2, col = &#39;grey65&#39;)
+
+axis(1, col = &#39;grey75&#39;, line = -1.5)
+axis(2, col = &#39;grey75&#39;, line = 0.5, at = seq(0, 0.75, 0.25))
+
+mtext(&quot;Age (Ma)&quot;, side = 1, line = 1.0)
+mtext(&quot;Extinction rate&quot;, side = 2, line = 3)
+
+text(235, 0.75, &quot;Unbuffered&quot;, col = &#39;grey35&#39;)
+text(85, 0.5, &quot;Buffered&quot;, col = &#39;grey65&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&quot;/knitr-figs/tscale.epoch.buff-1.png&quot; alt=&quot;plot of chunk tscale.epoch.buff&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For this particular figure, I think it would help to change the aspect ratio so that the peaks in extinction are not so towering. This way we can see more clearly those times when boffered and unbuffered genera differ in their extinction rates. The goal with time series is to have an aspect ratio that tends to make the average slope at most 45 degrees.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;par(tcl = -0.2, mgp = c(0,0.5,0))
+plot(ext$$Age.Ma, ext$$q, type = &#39;n&#39;, 
+       xlim = c(250,0), ylim = c(-0.3, 0.85),
+       axes = F, xlab = &quot;&quot;, ylab = &quot;&quot;)
+
+tscales.epoch( 0.9, -0.05, -0.25)
+
+lines(ext$$Age.Ma, ext$$unb, lwd = 2, col = &#39;grey35&#39;)
+lines(ext$$Age.Ma, ext$$ext.oth.b, lwd = 2, col = &#39;grey65&#39;)
+
+axis(1, col = &#39;grey75&#39;, line = -0.25)
+axis(2, col = &#39;grey75&#39;, line = 0.5, at = seq(0, 0.8, 0.4), labels = c(0,0.4, 0.8))
+
+mtext(&quot;Age (Ma)&quot;, side = 1, line = 1.0)
+mtext(&quot;Extinction rate&quot;, side = 2, line = 2)
+
+text(235, 0.75, &quot;Unbuffered&quot;, col = &#39;grey35&#39;)
+text(85, 0.5, &quot;Buffered&quot;, col = &#39;grey65&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&quot;/knitr-figs/tscale.epoch.buffasp-1.png&quot; alt=&quot;plot of chunk tscale.epoch.buffasp&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Shallow slopes on a time series will help us see patterns in the data more clearly (Cleveland, McGill, and McGill 1988; Tufte 2006; Talbot, Gerth, and Hanrahan 2012). In this example we can see that buffered and unbuffered genera diverge in extinction patterns during mass extincitons. When acidification is high, the unbuffered genera (those that can’t physiologically isolate themselves from the background ocean ph) suffer more extinction than buffered genera. Interestingly at the K-Pg extinction buffered genera have higher extinction rates. With the data plotted this way, we can see all the important events, see how they differ from each other and from the background, and see this all without relying on extra statistical information.&lt;/p&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;References&lt;/h4&gt;
+
+&lt;p&gt;Cleveland, William S., Marylyn E. McGill and Robert McGill. (1988) The Shape Parameter of a Two-Variable Graph. &lt;em&gt;Journal of the American Statistical Association&lt;/em&gt; 83(402):289-300.&lt;/p&gt;
+
+&lt;p&gt;Talbot, Justin, John Gerth, and Pat Hanrahan.  (2012) An empirical model of slope ratio comparisons. &lt;em&gt;Visualization and Computer Graphics, IEEE Transactions&lt;/em&gt; on 18.12: 2613-2620.&lt;/p&gt;
+
+&lt;p&gt;Tufte, Edward. (2006) &lt;em&gt;Beautiful Evidence&lt;/em&gt; Graphics Press. New York.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/timescales.to.base&quot;&gt;Add a timescale to a figure&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 12, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Long-term differences in extinction risk among the seven forms of rarity]]></title>
+  <link>/articles/15/rarity</link>
+  <id>/articles/15/rarity</id>
+  <published>2015-04-12T00:00:00-04:00</published>
+  <updated>2015-04-12T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Harnik, P. G., Simpson, C., &amp;amp; Payne, J. L. 2012. Long-term differences in extinction risk among the seven forms of rarity. &lt;em&gt;Proceedings of the Royal Society B - Biological Sciences&lt;/em&gt;. doi:10.1098/rspb.2012.1902 &lt;a href=&quot;/papers/Proceedings of the Royal Society B Biological Sciences 2012 Harnik.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Rarity is widely used to predict the vulnerability of species to extinction. Species can be rare in markedly different ways, but the relative impacts of these different forms of rarity on extinction risk are poorly known and cannot be determined through observations of species that are not yet extinct. The fossil record provides a valuable archive with which we can directly determine which aspects of rarity lead to the greatest risk. Previous palaeontological analyses confirm that rarity is associated with extinction risk, but the relative contributions of different types of rarity to extinction risk remain unknown because their impacts have never been examined simultaneously. Here, we analyse a global database of fossil marine animals spanning the past 500 million years, examining differential extinction with respect to multiple rarity types within each geological stage. We observe systematic differences in extinction risk over time among marine genera classified according to their rarity. Geographic range played a primary role in determining extinction, and habitat breadth a secondary role, whereas local abundance had little effect. These results suggest that current reductions in geographic range size will lead to pronounced increases in long-term extinction risk even if local populations are relatively large at present.&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;six columns&quot;&gt;
+	&lt;p&gt;The relative odds of extinction for the seven forms of rarity over the last 500 million years, with risk increasing from the bottom to top panels. Data are from figure 1, and are the number of time intervals characterized by different odds of extinction for genera in each rarity class relative to common genera. The solid black lines denote equal odds of extinction between rare and common genera. Dashed white lines denote the median relative odds of extinction for each rarity class over the last 500 million years. At the greatest risk of extinction are genera with both small ranges and narrow habitat breadth. Broader habitat breadth helps buffer narrowly distributed genera from extinction, whereas variation in the population size has negligible effect.&lt;/p&gt;&lt;/div&gt;
+
+    &lt;div class=&quot;six columns&quot;&gt;
+    &lt;img src=&quot;/assets/img/rarity2.png&quot; width=&quot;400px&quot; /&gt;&lt;/div&gt;
+
+  &lt;/div&gt;
+ &lt;/div&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/rarity&quot;&gt;Long-term differences in extinction risk among the seven forms of rarity&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 12, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Extinctions in ancient and modern seas]]></title>
+  <link>/articles/15/extinction-sea</link>
+  <id>/articles/15/extinction-sea</id>
+  <published>2015-04-11T00:00:00-04:00</published>
+  <updated>2015-04-11T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Harnik, P. G., Lotze, H., Anderson, S. C., Finkel, Z. V. Finnegan, S., Lindberg, D. L., Liow, L. H., Lockwood, R., McClain, C. M., McGuire, J. L., O’Dea, A., Pandolfi, J. M., Simpson, C., Tittensor, D. 2012. Extinctions in ancient and modern seas. &lt;em&gt;Trends in Ecology and Evolution&lt;/em&gt;. 27(11) 608-617. doi://10.1016/j.tree.2012.07.010 &lt;a href=&quot;/papers/Trends Ecol. Evol. 2012 Harnik.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In the coming century, life in the ocean will be confronted with a suite of environmental conditions that have no analog in human history. Thus, there is an urgent need to determine which marine species will adapt and which will go extinct. Here, we review the growing literature on marine extinctions and extinction risk in the fossil, historical, and modern records to compare the patterns, drivers, and biological correlates of marine extinctions at different times in the past. Characterized by markedly different environmental states, some past periods share common features with predicted future scenarios. We highlight how the different records can be integrated to better understand and predict the impact of current and projected future environmental changes on extinction risk in the ocean.&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+
+&lt;div class=&quot;twelve columns&quot;&gt;
+&lt;img src=&quot;/assets/img/tree1.png&quot; width=&quot;100%&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;row&quot;&gt;
+
+    &lt;div class=&quot; columns&quot;&gt;
+    &lt;p&gt; Evidence of marine extinctions in the fossil and historical records. (a) Extinction rate of all marine genera in the Phanerozoic [past 550 million years (Ma)] and (b) by major clades in the Cenozoic (past 65 Ma); horizontal gray lines and corresponding numerical values in (b) are the mean Cenozoic extinction rates. (c) Cumulative number of global extinctions of marine species in historical times (1500–2000 AD). Fossil data are from the Paleobiology Database (http://paleodb.org). Abbreviation: Bp, before present.&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+ &lt;/div&gt;
+
+
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/extinction-sea&quot;&gt;Extinctions in ancient and modern seas&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 11, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Calculating a time series of diversification rates in a time-calibrated molecular phylogeny ]]></title>
+  <link>/articles/15/Rate_calculations</link>
+  <id>/articles/15/Rate_calculations</id>
+  <published>2015-04-11T00:00:00-04:00</published>
+  <updated>2015-04-11T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;I want to describe the calculation of timeseries of diversification rates that I used in Simpson et al. (2011) and Simpson (2013).&lt;/p&gt;
+
+&lt;p&gt;The basic method is simple and there is a function for calculating the rate estimate and likelihood in a specified window of time in the laser package by Rabosky: &lt;code&gt;yule.Window()&lt;/code&gt;. But there are a couple of tricks to using it effectively, especially if you want to use an arbitary timescale.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;# This is yuleWindow from laser. But importantly, I&#39;ve commented out the text
+# outputs. This speeds things up and makes this document shorter.
+
+yuleWindow &amp;lt;- function (x, st1 = x[1], st2 = 0) 
+{
+    checkbasal(x)
+    if (!is.numeric(x)) 
+        stop(&quot;object x not of class &#39;numeric&#39;&quot;)
+    if (st1 &amp;lt;= st2) {
+        cat(&quot;Error: invalid input\n\n&quot;)
+        cat(&quot;shift points must be in temporal order (first, second)\n&quot;)
+        cat(&quot;and in units of time/substitutions before present\n\n&quot;)
+        return()
+    }
+    x &amp;lt;- rev(sort(x))
+    res &amp;lt;- as.list(yuleint2(x, st1, st2))
+    if (is.na(res$LH)) {
+        print(&quot;Error.  Must be &amp;gt;= 1 speciation event within temporal window\n&quot;)
+        stop()
+    }
+   # cat(&quot;---------------------------------\n&quot;)
+    #cat(&quot;Results of fitting Yule model to temporal window of \n&quot;)
+    #cat(&quot;(&quot;, st1, &quot;,&quot;, st2, &quot;) time units before present:\n\n&quot;)
+    #cat(&quot;ML speciation rate: &quot;, res$smax, &quot;\n\nLikelihood: &quot;, 
+    #    res$LH, &quot;\n\n&quot;)
+    return(res)
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Tanja Stadler published a similar method (Stadler 2011 and the package &lt;code&gt;TreePar&lt;/code&gt;) that allows rates to change from interval to interval only if the likelihood in that interval exceeds a certain threshold defined by a constant rate. We know from the fossil record that rates are never constant, so having a null that is constant just does not make sense to me. However, you can easily test for that with the code here by saving the likelihoods.&lt;/p&gt;
+
+&lt;p&gt;For a single simulated tree:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;library(ape)
+
+b &amp;lt;- 0.2
+d &amp;lt;- 0.1
+C &amp;lt;- 10
+R &amp;lt;- 1
+tree &amp;lt;-rbdtree(b, d, Tmax = 50)
+plot(tree, show.tip.label = F)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&quot;/knitr-figs/sim tree-1.png&quot; alt=&quot;plot of chunk sim tree&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You don’t even need a real time scale. In the example below, the scale is simply a window 1.5 million years wide sliding every 1 million years. Now with this kind of timescale there are two options that become important. 1) the width of the window (&lt;code&gt;w&lt;/code&gt;), and 2)the minimum number of nodes in the window you want to calculate rates on (&lt;code&gt;n&lt;/code&gt;). These two paramters interact with each other, the wider the window the easier it is to get lots of nodes. All of this is not important if you use a geological time scale and multiple trees pulled from the posterior of a Bayesian analysis.&lt;/p&gt;
+
+&lt;p&gt;The basic code is with an arbitrary timescale is:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;suppressMessages(library(laser))
+
+max.t &amp;lt;- max(branching.times(tree))
+
+
+t &amp;lt;- max.t:1
+div &amp;lt;- as.numeric()
+lik &amp;lt;- as.numeric()
+
+w=1.5 
+# w is the width of the window. This can be adjusted. Wider windows will
+# natrually include more nodes and give a better estimate of the diversification
+# rates.
+
+n=1   
+# n is the minimum number of nodes needed in a window. This needs to be larger
+# than 0, but as small as possible
+
+
+
+  bt.tree&amp;lt;-branching.times(tree)
+
+for(i in t){
+  a &amp;lt;- length(which(bt.tree &amp;gt; t[i] &amp;amp; bt.tree &amp;lt; t[i]+w)  )
+  if(a &amp;gt; n){
+    yw &amp;lt;- try(yuleWindow(bt.tree, st1=t[i]+w, st2=t[i]))
+    div[i] &amp;lt;- yw$smax
+    lik[i] &amp;lt;- yw$LH
+    
+    } else{div[i]&amp;lt;-NA
+           lik[i] &amp;lt;- NA}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The diversification rates are saved in &lt;code&gt;div&lt;/code&gt; and the likelihoods are in &lt;code&gt;lik&lt;/code&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;plot(t, div, type = &#39;l&#39;, xlim = c(50,0), xlab = &quot;Time (Ma)&quot;, ylab = &quot;Diversification Rate&quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&quot;/knitr-figs/div rate plot-1.png&quot; alt=&quot;plot of chunk div rate plot&quot; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;plot(t, lik, type = &#39;l&#39;, xlim = c(50,0), xlab = &quot;Time (Ma)&quot;, ylab = &quot;Likelihood&quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&quot;/knitr-figs/likelihood plot-1.png&quot; alt=&quot;plot of chunk likelihood plot&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;adding-a-geological-timescale&quot;&gt;Adding a geological timescale&lt;/h2&gt;
+
+&lt;p&gt;This is how I prefer to do things.&lt;/p&gt;
+
+&lt;p&gt;First I define the time scale. Usually I keep a csv file with the timescale and source it.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;#Cenozoic timescale
+tscale.bot &amp;lt;- c(66, 61.6,59.2, 56, 47.8,
+                41.2,37.8, 33.9, 
+                28.1,23.0, 20.4, 
+                16.0, 13.8, 11.6, 
+                7.2, 5.3, 3.6, 2.6, 1.8, 0.01)
+tscale.top &amp;lt;- c(tscale.bot[-1], 0)
+
+tscale &amp;lt;- cbind(tscale.bot, tscale.top, tscale.top + (tscale.bot-tscale.top)/2)
+tscale
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;#       tscale.bot tscale.top       
+#  [1,]      66.00      61.60 63.800
+#  [2,]      61.60      59.20 60.400
+#  [3,]      59.20      56.00 57.600
+#  [4,]      56.00      47.80 51.900
+#  [5,]      47.80      41.20 44.500
+#  [6,]      41.20      37.80 39.500
+#  [7,]      37.80      33.90 35.850
+#  [8,]      33.90      28.10 31.000
+#  [9,]      28.10      23.00 25.550
+# [10,]      23.00      20.40 21.700
+# [11,]      20.40      16.00 18.200
+# [12,]      16.00      13.80 14.900
+# [13,]      13.80      11.60 12.700
+# [14,]      11.60       7.20  9.400
+# [15,]       7.20       5.30  6.250
+# [16,]       5.30       3.60  4.450
+# [17,]       3.60       2.60  3.100
+# [18,]       2.60       1.80  2.200
+# [19,]       1.80       0.01  0.905
+# [20,]       0.01       0.00  0.005
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then I run the rate calculation.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;suppressMessages(library(laser))
+div &amp;lt;- as.numeric()
+
+# n=0   # n is the minimum number of nodes needed in a window. 
+# This needs to be larger than 0, but as small as possible
+
+  bt.tree&amp;lt;-branching.times(tree)
+
+  for(i in 1:length(tscale[,1])){
+    a &amp;lt;- length(which(bt.tree &amp;gt; tscale[i,2] &amp;amp; bt.tree &amp;lt; tscale[i,1]))
+    if(a &amp;gt; n){
+      div[i] &amp;lt;- try(yuleWindow(bt.tree, st1=tscale[i,1], st2=tscale[i,2])$smax)
+    } else{div[i]&amp;lt;-NA
+           }
+  }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;After running the calculation, I plot it…&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-r&quot;&gt;plot(tscale[,3], div, 
+     type = &#39;n&#39;, 
+     xlim = c(66,0), 
+     ylim = c(0, 0.3), 
+     xlab = &quot;&quot;, ylab = &quot;&quot;, 
+     axes = F)
+# draw timescale in background
+
+bases &amp;lt;- c(66, 56, 33.9, 23.0, 5.3, 2.6, 0.01,0.01)
+cc&amp;lt;-rep(c(&quot;grey85&quot;,&quot;grey90&quot;),11) 
+
+bt &amp;lt;- 0.05; to &amp;lt;- 0.3
+for (b in 1:16) rect(xleft=bases[b], ybottom=bt, 
+                     xright=bases[b+1], ytop=to,col=cc[b], border=NA)
+
+# add ribbon of time scale
+ bt &amp;lt;- 0.03; to &amp;lt;- 0.05
+ # Add boxes  for legend of time 
+  for (b in 1:6) rect(xleft=bases[b], ybottom=bt, 
+                      xright=bases[b+1], ytop=to,col=NA,border=&#39;grey50&#39;)
+
+# Add Text for legend of time
+    bt &amp;lt;- (bt+to)/2 # Level of text
+    tpl &amp;lt;- c(61.6, 45, 28.1, 14, 4, 1.1)
+    tx &amp;lt;- c( &quot;Paleocene&quot;, &quot;Eocene&quot;, &quot;Oligocene&quot;, &quot;Miocene&quot;, &quot;Pli&quot;, &quot;Ple&quot;)
+
+for (t in 1:6) text(x=tpl[t], y=bt, labels=tx[t])
+
+axis(1, col = &quot;grey75&quot;, line = -1.5)
+mtext(&quot;Time (Ma)&quot;, side = 1, line = 0.5)
+axis(2, col = &quot;grey75&quot;, line = 0, at = c(0.05, 0.1, 0.15, 0.2, 0.25, 0.3))
+mtext(&quot;Diversification Rate&quot;, side = 2, line = 2.5)
+
+# plot lines
+lines(tscale[,3], div)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&quot;/knitr-figs/plot calc-1.png&quot; alt=&quot;plot of chunk plot calc&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the background of this plot I show epoch-level geological time. Also, I usually use a function for plotting these timescales in the background.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+&lt;p&gt;Rabosky, Daniel L. “LASER: a maximum likelihood toolkit for detecting temporal shifts in diversification rates from molecular phylogenies.” Evolutionary Bioinformatics Online 2 (2006): 247.&lt;/p&gt;
+
+&lt;p&gt;Simpson, Carl, et al. “Evolutionary diversification of reef corals: a comparison of the molecular and fossil records.” Evolution 65.11 (2011): 3274-3284.&lt;/p&gt;
+
+&lt;p&gt;Simpson, Carl. “Species selection and the macroevolution of coral coloniality and photosymbiosis.” Evolution 67.6 (2013): 1607-1621.&lt;/p&gt;
+
+&lt;p&gt;Stadler, Tanja. “Mammalian phylogeny reveals recent diversification rate shifts.” Proceedings of the National Academy of Sciences 108.15 (2011): 6187-6192.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/Rate_calculations&quot;&gt;Calculating a time series of diversification rates in a time-calibrated molecular phylogeny &lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 11, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Species selection in the molecular age]]></title>
+  <link>/articles/15/Spsel-mol</link>
+  <id>/articles/15/Spsel-mol</id>
+  <published>2015-04-10T00:00:00-04:00</published>
+  <updated>2015-04-10T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Simpson, C., Müller, J., 2012. Species selection in the molecular age, in &lt;em&gt;From clone to bone: the synergy of morphological and molecular tools in paleobiology&lt;/em&gt;, Johannes Müller and Rob Asher, eds. Cambridge University Press. p. 116-134. &lt;a href=&quot;/papers/2011 Simpson.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Everything biological varies. Without variation, evolution would not be possible. This is a truism in macroevolution as much as it is within and between organisms. Species vary in their phenotypic and macroecological traits and variation also exists in the taxonomic rates of speciation and extinction over time, among taxa, and within taxa. Variation in diversification rates produces the major patterns of diversification we observe in the fossil record. Understanding the patterns and causes of variation in diversification rates has been the focus of palaeobiology for decades.&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+
+&lt;div class=&quot;seven columns&quot;&gt;
+&lt;img src=&quot;/assets/img/labrid-sel.png&quot; width=&quot;400px&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;five columns&quot;&gt;
+    &lt;p&gt; An estimate of the magnitude and direction of species selection on multiple traits in labrid fishes derived from a time-calibrated molecular phylogeny. The pattern of species selection observed here shows that sexual selection is a consistent and strong cause of high diversification rates but the presence of the parrotfish pharyngeal mill is not consistently associated with high diversification because it is seen to oscillate around a selection coefficient of zero. This means that for about 10 million years, fish with the novel jaw structure diversified at a lower rate than fish without that it. However, species with sexual dichromatism consistently have higher diversification rates than species without it.&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+ &lt;/div&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/Spsel-mol&quot;&gt;Species selection in the molecular age&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 10, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The evolutionary history of division of labour]]></title>
+  <link>/articles/15/Division-of-labor</link>
+  <id>/articles/15/Division-of-labor</id>
+  <published>2015-04-10T00:00:00-04:00</published>
+  <updated>2015-04-10T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Simpson, C. 2012. The evolutionary history of division of labour. &lt;em&gt;Proceedings of the Royal Society B: Biological Sciences&lt;/em&gt; 279:116–121. &lt;a href=&quot;/papers/Proceedings B 2010 Simpson.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Functional specialization, or division of labour (DOL), of parts within organisms and colonies is common in most multi-cellular, colonial and social organisms, but it is far from ubiquitous. Several mechanisms have been proposed to explain the evolutionary origins of DOL; the basic feature common to all of them is that functional differences can arise easily. These mechanisms cannot explain the many groups of colonial and social animals that exhibit no DOL despite up to 500 million years of evolution. Here, I propose a new hypothesis, based on a multi-level selection theory, which predicts that a reproductive DOL is required to evolve prior to subsequent functional specialization. I test this hypothesis using a dataset consisting of the type of DOL for living and extinct colonial and social animals. The frequency distribution of DOL and the sequence of its acquisition confirm that reproductive specialization evolves prior to functional specialization. A corollary of this hypothesis is observed in colonial, social and also within multi-cellular organisms; those species without a reproductive DOL have a smaller range of internal variation, in terms of the number of polymorphs or cell types, than species with a reproductive DOL.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/dol-order.png&quot; style=&quot;width: 750px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I measure the relative timing of tasks in colonial and social animals with time-calibrated molecular phylogenies. Included in this figure are a diverse sample of colonial and social animals ranging from bryozoans to buffalo and from hydrozoans to humans. The sequence of division of labor is indicated by which side of the one-to-one line points plot. All plot on or above showing that reproductive specialists always evolve before or simultaneously with members specializing in other tasks such as feeding or defense. There are also many origins of sociality and coloniality that have no division of labor.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/Division-of-labor&quot;&gt;The evolutionary history of division of labour&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 10, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Evolutionary diversification of reef corals--a comparison of the molecular and fossil records]]></title>
+  <link>/articles/15/coral-div</link>
+  <id>/articles/15/coral-div</id>
+  <published>2015-04-07T00:00:00-04:00</published>
+  <updated>2015-04-07T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Simpson, C., Kiessling, W., Mewis, H., Baron-Szabo, R. C. &amp;amp; Müller, J. 2011. Evolutionary diversification of reef corals: a comparison of the molecular and fossil records. &lt;em&gt;Evolution&lt;/em&gt;. 65(11) 3274–3284. DOI: 10.1111/j.1558-5646.2011.01365.x &lt;a href=&quot;/papers/Evolution 2011 Simpson.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Understanding historical patterns of diversity dynamics is of paramount importance for many evolutionary questions. The fossil record has long been the only source of information on patterns of diversification, but the molecular record, derived from time-calibrated phylogenies, is becoming an important additional resource. Both fossil and molecular approaches have shortcomings and biases. These have been well studied for fossil data but much less so for molecular data and empirical comparisons between approaches are lacking. Here, we compare the patterns of diversification derived from fossil and molecular data in scleractinian reef coral species. We also assess the robustness of molecular diversification rates to poor taxon sampling. We find that the temporal pattern of molecular diversification rates is robust to incomplete sampling when rates are calculated per interval. The major obstacle of molecular methods is that rate estimates are distorted because diversification rates can never be negative, whereas the fossil record suffers from incomplete preservation and inconsistent taxonomy. Nevertheless, the molecular pattern of diversification is comparable to the pattern we observe in the fossil record, with the timing of major diversification pulses coinciding in each dataset. For example, both agree that the end-Triassic coral extinction was a catastrophic bottleneck in scleractinian evolution.&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;six columns&quot;&gt;
+    	  &lt;img src=&quot;/assets/img/moldiv.png&quot; style=&quot;width: 400px;&quot; /&gt;
+
+    &lt;/div&gt;
+    &lt;div class=&quot;six columns&quot;&gt;
+ &lt;/div&gt;
+ We can calculate the diversification rate in a molecular phylogeny by dividing the number of nodes in a window of time by the sum of the branch lengths ranging through that window, including branches without nodes:
+$$\hat{\delta}  = \frac{k_{s}}{[(n-k_{s}) \Delta t_{s} + \sum_{t=1}^{k_{s}} (t_{i}-t_{s}) ]}$$
+
+   &lt;/div&gt;
+
+
+
+&lt;div class=&quot;row&quot;&gt;
+
+   &lt;div class=&quot;twelve columns&quot;&gt;
+    &lt;img src=&quot;/assets/img/coral-div.png&quot; style=&quot;width: 800px;&quot; /&gt;
+
+    &lt;/div&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/coral-div&quot;&gt;Evolutionary diversification of reef corals--a comparison of the molecular and fossil records&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 07, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Pioneering Paradigms and Magnificent Manifestos – Leigh Van Valen’s priceless contributions to evolutionary biology]]></title>
+  <link>/articles/15/leigh</link>
+  <id>/articles/15/leigh</id>
+  <published>2015-04-06T00:00:00-04:00</published>
+  <updated>2015-04-06T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Liow, Lee Hsiang, Carl Simpson, Frédéric Bouchard, John Damuth, Benedikt Hallgrimsson, Gene Hunt, Daniel W. McShea, Jeffery Powell, Nils Christian Stenseth, Melissa Stoller &amp;amp; Gunter Wagner. 2011. Pioneering Paradigms and Magnificent Manifestos – Leigh Van Valen’s priceless contributions to evolutionary biology. &lt;em&gt;Evolution&lt;/em&gt;. 65(4) 917-922. DOI: 10.1111/j.1558-5646.2011.01242.x &lt;a href=&quot;/papers/Evolution 2011 Liow.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;one-third column&quot;&gt;
+    &lt;img src=&quot;/assets/img/leigh.png&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/div&gt;
+
+    &lt;div class=&quot;two-thirds column&quot;&gt;
+    &lt;p&gt;Evolutionary biology lost a unique, broad, creative, and influential thinker when Leigh Van Valen1 passed away on October 16, 2010 in Chicago at the age of 75. He was Professor Emeritus of Ecology and Evolution at the University of Chicago and served on the Committees on Evolutionary Biology, Conceptual Foundations of Science and Genetics. Unwritten ideas still coursed through his ceaselessly active mind as he fought and lost his last battle against phylogenetically distant and diverse microbes.&lt;/p&gt;
+
+    The website &lt;a href=&quot;http://leighvanvalen.com&quot;&gt; leighvanvalen.com&lt;/a&gt; archives, with free access, all of Leigh’s papers and all issues of his journal, Evolutionary Theory.
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/leigh&quot;&gt;Pioneering Paradigms and Magnificent Manifestos – Leigh Van Valen’s priceless contributions to evolutionary biology&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 06, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The Miscellaneous Transitions in Evolution]]></title>
+  <link>/articles/15/misc</link>
+  <id>/articles/15/misc</id>
+  <published>2015-04-05T00:00:00-04:00</published>
+  <updated>2015-04-05T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;McShea, D. W. &amp;amp; Simpson, C. 2011. The Miscellaneous Transitions in Evolution. In, &lt;em&gt;The Major Transitions Revisited&lt;/em&gt;, Brett Calcott &amp;amp; Kim Sterelny eds. MIT Press. &lt;a href=&quot;/papers/2011 McShea.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In Mark Twain’s Letters from the Earth, his sardonic alter ego Puddin’head Wilson reflects that if the Eiffel Tower represented the history of the world, and the skin of paint atop the knob at the pinnacle were the portion of that history in which humans have existed, “anybody would perceive that that skin was what the tower was built for. I reckon they would, I dunno” (Twain 1962, 226).&lt;/p&gt;
+
+&lt;p&gt;Twain was being facetious, of course, but taken at face value the remark does reflect a common intuition that people are special, that their existence reflects something profound about the evolutionary process, that evolution somehow culminates in them, that they are what evolution at the largest scale — all life over its entire 3.5 billion-year history, the whole Eiffel Tower — is all about. In the spirit of Puddin’head’s remark, a modern analyst could choose to scorn this intuition as an expression of our natural human infatuation with ourselves. Alternatively, but equally skeptically, a hard-headed contemporary might treat this intuition as a cultural residue of our two-thousand-year-old obsession with the Great Chain of Being, the notion — dating back to Aristotle — that there is an ordering among organisms, from lower to higher, from monad to man.&lt;/p&gt;
+
+&lt;p&gt;But another avenue is open to us. We could, instead, take the widely shared impression of an ordering seriously. We could conjecture that the Great Chain represents a direct but difficult-to-articulate insight — perhaps partly confused, or perhaps only partly correct —  into a true natural ordering of some kind. Of course, a modern Great Chain would include a time component, identifying not just a set of organisms but a set of transitions: bacterium to protist to multicellular animal, or more recently, within chordates, fish to reptile to mam- mal to human. In other words, we could take seriously the idea that an updated Great Chain reflects an actual ascent of some kind, an increase in some objective and important property or quantity over the history of life. And we could then investigate to discover what that property is. Our project would be to discover what we will call the “theoretical unity” that links the transitions leading to people. So, for example, we would ask what is the variable that increases in the transitions from fish to human? On what scale do reptiles score higher than fish and lower than mammals? Is it intelligence, energy intensiveness, or maybe fitness? The search would be open-ended. The goal would be to determine what it is that our intuition has grasped, to figure out how to say, in scientific language, what we already think we know prescientifically. If the Great Chain is real, even in part, what is it that is increasing as we move up it?&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/misc&quot;&gt;The Miscellaneous Transitions in Evolution&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 05, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[How many levels are there?]]></title>
+  <link>/articles/15/levels</link>
+  <id>/articles/15/levels</id>
+  <published>2015-04-05T00:00:00-04:00</published>
+  <updated>2015-04-05T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Simpson, C. 2011. How many levels are there? How insights from evolutionary transitions in individuality help measure the hierarchical complexity of life. In, &lt;em&gt;The Major Transitions in Evolution Revisited&lt;/em&gt;, Brett Calcott &amp;amp; Kim Sterelny eds. MIT Press. &lt;a href=&quot;/papers/2011 Simpson-levels.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;How the vast range of spatial and temporal scales on which biological processes interact and relate to each other is a fundamental problem in evolutionary biology. The tandard solution was given by Darwin and formed the core of the modern synthesis.  Observed processes of organisms interacting with their environment (which includes other organisms) produce all the patterns at all spatial and temporal scales.  From this perspective, biology is uniformitarian, patterns at all scales are thought to be caused by the observable local processes. Unfortunately, observations at large scales do not seem to be reducible to local patterns in all cases.  The most critical of these observations are those transitions in evolution known as evolutionary transitions in individuality (Buss 1987, Maynard Smith and Szathmary 1995 Michod 1999). What occurs during these transitions is the passing of the dominant fitness components from one level of organization to a higher more inclusive level, and with it new levels of organization, evolution, and ecological interaction emerge.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/levels.png&quot; style=&quot;width: 750px;&quot; /&gt;&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/levels&quot;&gt;How many levels are there?&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 05, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The diversity of life through time]]></title>
+  <link>/articles/15/div</link>
+  <id>/articles/15/div</id>
+  <published>2015-04-04T00:00:00-04:00</published>
+  <updated>2015-04-04T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Simpson, C. &amp;amp; Kiessling, W. 2010. The diversity of life through time. In: &lt;em&gt;Encyclopedia of Life Sciences&lt;/em&gt; (&lt;em&gt;ELS&lt;/em&gt;). John Wiley &amp;amp; Sons, Ltd: Chichester. &lt;a href=&quot;/papers/2010 Simpson.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Global diversity is the total number of taxa living in the present day or at any time in the geological past. Recon- structing the trajectory of global diversity by compiling data from the fossil record has been a major research agenda for palaeontologists for decades. The goal is to produce an accurate reconstruction of the pattern of global diversity that will ultimately allow us to under- stand the causes of diversity increases, decreases and transitions in the composition of the biota. The Paleo- biology Database, a new large-scale database based on individual collections of fossil taxa, allows palaeontolo- gists to standardise sampling, thereby controlling for vagaries of the fossil record. Collection-level data also allows researchers to identify any asynchrony of changes in diversity among regions of the globe, with the ultimate goal of identifying the habitats or environments that support biodiversity growth.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/div.png&quot; style=&quot;width: 750px;&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/div&quot;&gt;The diversity of life through time&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 04, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[On the potential for ocean acidification to be a general cause of ancient reef crises]]></title>
+  <link>/articles/15/acid</link>
+  <id>/articles/15/acid</id>
+  <published>2015-04-04T00:00:00-04:00</published>
+  <updated>2015-04-04T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Kiessling, W. &amp;amp; Simpson, C. 2011 On the potential for ocean acidification to be a general cause of ancient reef crises. &lt;em&gt;Global Change Biology&lt;/em&gt;. 17(1): 56 - 67. doi: 10.1111/j.1365-2486.2010.02204.x &lt;a href=&quot;/papers/Global Change Biology 2011 Kiessling.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Anthropogenic rise in the carbon dioxide concentration in the atmosphere leads to global warming and acidification of the oceans. Ocean acidification (OA) is harmful to many organisms but especially to those that build massive skeletons of calcium carbonate, such as reef corals. Here, we test the recent suggestion that OA leads not only to declining calcification of reef corals and reduced growth rates of reefs but may also have been a trigger of ancient reef crises and mass extinctions in the sea. We analyse the fossil record of biogenic reefs and marine organisms to (1) assess the timing and intensity of ancient reef crises, (2) check which reef crises were concurrent with inferred pulses of carbon dioxide concentrations and (3) evaluate the correlation between reef crises and mass extinctions and their selectivity in terms of inferred physiological buffering. We conclude that four of five global metazoan reef crises in the last 500 Myr were probably at least partially governed by OA and rapid global warming. However, only two of the big five mass extinctions show geological evidence of OA.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/acid.png&quot; style=&quot;width: 750px;&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/acid&quot;&gt;On the potential for ocean acidification to be a general cause of ancient reef crises&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 04, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The role of extinction in large-scale diversity-stability relationships]]></title>
+  <link>/articles/15/divstib</link>
+  <id>/articles/15/divstib</id>
+  <published>2015-04-03T00:00:00-04:00</published>
+  <updated>2015-04-03T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Simpson, C. &amp;amp; Kiessling, W. 2010 The role of extinction in large-scale diversity-stability relationships. &lt;em&gt;Proceedings of the Royal Society B - Biological Sciences&lt;/em&gt; 277(1686): 1451-1456. &lt;a href=&quot;/papers/Proceedings B 2010 Simpson.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;More-diverse communities are thought to be ecologically stable because a greater number of ecological interactions among members allows for the increases in robustness and resilience. Diversity–stability relationships have mostly been studied on short ecological time scales but one study has identified such patterns over million-year time scales in reef communities. Here we propose and test a hypothesis for the mechanism of large-scale diversity–stability relationships in reefs. The extinction of community members destabilizes the community as a whole, unless there is sufficient diversity to buffer the commu- nity from the stochastic loss of members, thereby preventing collapse. If genera have high extinction rates, any variation in diversity among communities will result in a diversity–stability relationship. Conversely, in the absence of other mechanisms, the stability of low extinction communities is expected to be inde- pendent of diversity. We compare the extinction rates of six reef-building metazoan taxa to patterns of reef community stability and reef volume. We find that extinction of reef-builders occurs independent of reef volume, and that the strength of the diversity–stability relationship varies positively with extinction rate.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/divstib.png&quot; style=&quot;width: 700px;&quot; /&gt;&lt;br /&gt;
+ An illustration of how high extinction rates can generate a diversity–stability relationship. Five reef communities with varying diversities are sampled at two time intervals. They each lose half of their species from one interval to the next. Ecological change is measured as the difference in community composition (number of species and their abundances) across intervals.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/divstib&quot;&gt;The role of extinction in large-scale diversity-stability relationships&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 03, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Species selection and driven mechanisms jointly generate a large-scale morphological trend in monobathrid crinoids]]></title>
+  <link>/articles/15/crinoid</link>
+  <id>/articles/15/crinoid</id>
+  <published>2015-04-03T00:00:00-04:00</published>
+  <updated>2015-04-03T00:00:00-04:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Simpson, C. 2010 Species selection and driven mechanisms jointly generate a large-scale morphological trend in monobathrid crinoids. &lt;em&gt;Paleobiology&lt;/em&gt; 36(3): 481-496. &lt;a href=&quot;/papers/Paleobiology 2010 Simpson.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Abundance is one of the primary factors believed to influence extinction yet little is known about its relationship to extinction rates over geologic time. Using data from the Paleobiology Database we show that abundance was an important factor in the extinction dynamics of marine bivalve genera over the post-Paleozoic. Contrary to expectations, our analyses reveal a nonlinear relationship between abundance and extinction rates, with rare and abundant genera exhibiting rates elevated over those of genera of moderate abundance. This U-shaped pattern is a persistent feature of the post-Paleozoic history of marine bivalves and provides one possible explanation for why we find strong support for heterogeneous extinction rates among genera grouped by similarity in abundance yet effectively no net relationship among these rates when using models of directional selection on abundance.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/subclade.png&quot; style=&quot;width: 800px;&quot; /&gt;&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/15/crinoid&quot;&gt;Species selection and driven mechanisms jointly generate a large-scale morphological trend in monobathrid crinoids&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Carl Simpson, Macroevolution&lt;/a&gt; on April 03, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>

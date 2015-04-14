@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Carl Simpson - Macroevolution</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+
+  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+ <script type="text/javascript" src="/js/jquery.sparkline.min.js"></script>
+ <script type="text/javascript" src="/js/jquery.min.js"></script>
+ <script type="text/javascript" src="/js/d3.min.js"></script>
+
+
+
+</head>
+
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Add a timescale to a figure</title>
+  <meta name="description" content="Timescales on figures are helpfulIt is a good idea to add geological timescales to plots that show patterns over the Phanerozic. Timescales help the reader o...">
+
+
+  <link rel="stylesheet" href="/css/skeleton.css"> <link rel="stylesheet" href="/css/normalize.css">  
+	
+   <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+  <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+
+
+  <script type="text/javascript" src="/js/jquery.sparkline.min.js"></script>
+  <script type="text/javascript" src="/js/jquery.min.js"></script>
+  <script type="text/javascript" src="/js/d3.min.js"></script>
+
+
+
+ 
+  <link rel="canonical" href="/articles/15/timescales.to.base">
+  <link rel="alternate" type="application/rss+xml" title="Carl Simpson, Macroevolution" href="/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+
+<div class="container">
+	<div class = "row">
+    	<div class="two columns">
+			<h5><a href="/">Home</a></h5></div>
+    	<div class="three columns">
+			<h5><a href="/publications">Publications</a></h5></div>
+		<div class="three columns">
+			<h5><a href="/notebook">Notebook</a></h5></div>
+		<div class="two columns">
+			<h5><a href="https://github.com/simpson-carl">Code</a></h5></div>
+    	<div class="two columns">
+			<h5><a href="/bryozoan">Bryozoans</a></h5></div>
+	</div>
+</div><!-- container -->
+
+
+    <article>
+    <div class="container">
+      <div class="row">
+        <div class="twelve columns">
+          <h1>Add a timescale to a figure</h1>
+		<h4 id="timescales-on-figures-are-helpful">Timescales on figures are helpful</h4>
+<p>It is a good idea to add geological timescales to plots that show patterns over the Phanerozic. Timescales help the reader orient themselves with the new and interesting data that we want to show them. They can see more detail and with this orientation it is also easier for them to critically evaluate the pattern in the plot. Having a timescale on a plot is a win for the reader and it is a win for the author.</p>
+
+<p>There are lots of ways to add a timescale to a figure. Some are minimal, with the timescale flowing along the bottom as an addendum to the <script type="math/tex">x</script>-axis that serves only to link an interval name to a time in millions of years. Other ways of adding a timescale take up more space in the figure. The timescale can flow behind the data making it easy to see when a pattern takes place. The most maximal approaches take the color scheme and all the subdivisions from the official timescale and add all of that information to the figure. This maximilist approach has a unique color for every stage. The rainbow of timescale colors duplicates in color the information that is contained in the space along the <script type="math/tex">x</script>-axis. For example, the timing of a data point at the end of the Cretasious will be shown in the color of the timescale and in the position along the horizontal axis. A colored timescale also limits the choice we have of using colors to show different aspects of data without accedentially using a color that also indicates a specific time.</p>
+
+<p>In any figure, the data is the most important aspect. We make a figure to show a pattern in the data. A timescale should add to the interpratability of the data and the pattern that we are showing. The timescale shouldn’t get in the way, obscure, or take prominance.</p>
+
+<p>The features that I have found to be most affective in adding context to data without getting in the way are:</p>
+
+<ul>
+  <li>
+    <p>An un-filled ribbon with coarse-scale geological period or epoch names that run parallel to the <script type="math/tex">x</script>-axis.</p>
+  </li>
+  <li>
+    <p>A backdrop of alternating light-grey values that show intervals that are the same level as the ribbon or one step finer in resolution. It is important that the backdrop is much coaser than the scale that we plot the data.</p>
+  </li>
+</ul>
+
+<p>I’ve fiddled with these details in the figures I’ve made and published. Over time, I’ve settled on a basic set starting rules for creating the backdrop and ribbon. I’ve life to start with a stage-level backdrop and a ribbon showing epochs when plotting data that is restricted to the Cenozoic or other single Period. If the figure shows a pattern that is Phanerozoic-scale or more, then the backdrop and the ribbon are no finer than period-level. In between these extremes, if my plot spans multiple periods, but less than the whole Phanerozoic, then my backdrop shows epochs and the ribbon shows the periods.</p>
+
+<p>Sometimes the purpose of the figure itself suggests a different style of timescale. I want to make it easy to try all of these possabilities out and find the best solution for  each figure. For this purpose, I’ve written some functions that add timescales to R plots. This makes it easy to add in and swap different timescales easily. I’ve made functions for base plots that are added to figures after the plot is defined but before the data are plotted.</p>
+
+<p>The grey backdrop serves to make tone down the timescale and to highlight the data. But it is important to chose the level of greys and the difference between them carefully.Too much difference between alternating greys can make segments of a single color look different as it passes across the backdrop:</p>
+
+<p><img src="/knitr-figs/fig1-1.png" alt="plot of chunk fig1" /></p>
+
+<p>See how the blue line shifts color as it crosses from dark to light grey bars? This effect should be minimized as much as possible because it is addes noise to a figure. As our figures become more complicated, this noise will start to get in the way and make it difficult to read.</p>
+
+<p>The greys are too disimilar in the plot above. If we keep the grey bars close in value we can mimimize the appearent color chnage of out data. So that the similarity helps to keep the colors we use to plot data easily comparable across time. Through experimentation I’ve settled on a set of greys that work well, at least as a starting point. The difference between <code>grey90</code> and <code>grey95</code> remain slight enough to minimize the apperent color changes as our data spans the timescale, but they are also visually distinct enough to keep the timescale legible.</p>
+
+<p><img src="/knitr-figs/fig2-1.png" alt="plot of chunk fig2" /></p>
+
+<p>If this backdrop is too light, the specific greys can be changed. But in my experience, an interval of 5 between greys works best. So as the backdrop can is darkerned keep the greys 5 units apart.</p>
+
+<h4 id="a-basic-time-series">A basic time series</h4>
+<p>For these examples, I’ll plot time series of extinction rates. These examples are patterns of extinction for marine invertebrates over the Phanerozoic, including splits for physiologically buffered and unbuffered taxa (from Kiessling and Simpson 2011).</p>
+
+<pre><code class="language-r">ext &lt;- read.csv("~/Dropbox/projects/Rmarkdown/timescales/ext.csv", header = T)
+
+plot(ext$$Age.Ma, ext$$q, type = "l", xlim = c(550, 0), xlab = "Age (Ma)", ylab = "Extinction rate")
+</code></pre>
+
+<p><img src="/knitr-figs/basicfig-1.png" alt="plot of chunk basicfig" /></p>
+
+<p>This is a bare-bones figure. With the functions below, we will add timescales to these basic figures.</p>
+
+<h4 id="some-functions-and-examples">Some functions and examples</h4>
+<p>First, let’s load a fucntion that draws a timescale with a ribbon and backdrop demarking the periods over the Phanerozoic.</p>
+
+<pre><code class="language-r">tscales.period &lt;- function(top, bot, s.bot, ...) {
+    bases &lt;- read.csv("~/Dropbox/projects/Rmarkdown//timescales/periods.csv", 
+        header = T)
+    cc &lt;- rep(c("grey95", "grey97 "), length(bases))
+    
+    rect(xleft = bases[-12, 2], ybottom = rep(bot, 11), xright = bases[-1, 2], 
+        ytop = rep(top, 11), col = cc, border = NA)
+    
+    rect(xleft = bases[-12, 2], ybottom = rep(bot, 11), xright = bases[-1, 2], 
+        ytop = rep(s.bot, 11), border = "grey90")
+    
+    bt &lt;- (bot + s.bot)/2
+    tpl &lt;- bases[, 2] + c(diff(bases[, 2])/2, 0)
+    
+    text(x = tpl[-12], y = bt[-12], labels = bases[1:11, 1])
+}
+</code></pre>
+
+<p>If we just append a plot command with this function you’ll get this:</p>
+
+<pre><code class="language-r">plot(ext$$Age.Ma, ext$$q, type = "l", xlim = c(550, 0), xlab = "Age (Ma)", ylab = "Extinction rate")
+
+tscales.period(1.4, 0, -0.1)
+</code></pre>
+
+<p><img src="/knitr-figs/tscale1-1.png" alt="plot of chunk tscale1" /> <br />
+Which is not very helpful.</p>
+
+<p>So, I like to define a plot region with some extra space for the ribbon and also without drawing anything. Then I add in:</p>
+
+<ul>
+  <li>the timescale</li>
+  <li>the data</li>
+  <li>the axes and axis labels</li>
+</ul>
+
+<pre><code class="language-r">plot(ext$$Age.Ma, ext$$q, type = 'n', 
+       xlim = c(550,0), ylim = c(-0.1, 1.5),
+       axes = F, xlab = "", ylab = "")
+
+tscales.period(1.5, 0, -0.1)
+
+lines(ext$$Age.Ma, ext$$q, lwd = 2)
+
+axis(1, col = 'grey75', line = -0.5)
+axis(2, col = 'grey75', line = -2, at = seq(0, 1.5, 0.25))
+
+mtext("Age (Ma)", side = 1, line = 1.5)
+mtext("Extinction rate", side = 2, line = 1)
+</code></pre>
+
+<p><img src="/knitr-figs/tscale.all-1.png" alt="plot of chunk tscale.all" /></p>
+
+<p>It took a few tweeks of s.bot and the bottom limit of ylim to line things up right. I also like to adjust the axis position and specify the tick marks at this time. This figure is nice and clean, with the pattern highlighted and quietly supported by the timescale.</p>
+
+<p>Now a timescale function with the backdrop showing epochs.</p>
+
+<pre><code class="language-r">tscales.epoch &lt;- function(top, bot, s.bot){
+  labels &lt;- read.csv("~/Dropbox/projects/Rmarkdown//timescales/periods.csv", header = T)
+  bases &lt;- as.vector(read.csv("~/Dropbox/projects/Rmarkdown/timescales/epochs.csv", header = T))
+  end &lt;- dim(bases)[1]
+  cc &lt;- rep(c("grey95","grey97 "),length(bases))
+
+  rect(xleft = bases[-end,], ybottom = rep(bot, end), xright = bases[-1,],
+       ytop = rep(top, end), col = cc, border=NA)
+
+  rect(xleft = labels[-12, 2], ybottom = rep(bot,11), xright = labels[-1, 2],
+       ytop = rep(s.bot, 11), border = 'grey90')
+  
+  bt &lt;- (bot+s.bot)/2
+  tpl &lt;- labels[,2]+c(diff(labels[,2])/2,0)
+
+  text(x=tpl[-12], y=bt[-12], labels = labels[1:11, 1])
+}
+</code></pre>
+
+<pre><code class="language-r">plot(ext$$Age.Ma, ext$$q, type = 'n', 
+       xlim = c(550,0), ylim = c(-0.1, 1.5),
+       axes = F, xlab = "", ylab = "")
+
+tscales.epoch(1.5, 0,  -0.1)
+
+lines(ext$$Age.Ma, ext$$q, lwd = 2)
+
+axis(1, col = 'grey75', line = -0.5)
+axis(2, col = 'grey75', line = -2, at = seq(0, 1.5, 0.25))
+
+mtext("Age (Ma)", side = 1, line = 1.5)
+mtext("Extinction rate", side = 2, line = 1)
+</code></pre>
+
+<p><img src="/knitr-figs/tscale.epoch-1.png" alt="plot of chunk tscale.epoch" /></p>
+
+<p>At this scale it is a bit noisy. So let’s zoom in on this time series, and make a few scaling adjustments to keep the ribbon just larger than the text.</p>
+
+<pre><code class="language-r">plot(ext$$Age.Ma, ext$$q, type = 'n', 
+       xlim = c(250,0), ylim = c(-0.1, 0.7),
+       axes = F, xlab = "", ylab = "")
+
+tscales.epoch(0.7, 0, -0.05)
+
+lines(ext$$Age.Ma, ext$$q, lwd = 2)
+
+axis(1, col = 'grey75', line = -1.5)
+axis(2, col = 'grey75', line = 1, at = seq(0, 0.5, 0.25))
+
+mtext("Age (Ma)", side = 1, line = 1.0)
+mtext("Extinction rate", side = 2, line = 3)
+</code></pre>
+
+<p><img src="/knitr-figs/tscale.epoch.zoom-1.png" alt="plot of chunk tscale.epoch.zoom" /> <br />
+At this scale, an epoch-level backdrop works well. We can use it to orient ourselves within each period but it does not distract us from the patterns we want to show.</p>
+
+<p>Even with two time series (both plotted in grey with labels), this backdrop does not get busy.</p>
+
+<pre><code class="language-r">plot(ext$$Age.Ma, ext$$q, type = 'n', 
+       xlim = c(250,0), ylim = c(-0.1, 0.9),
+       axes = F, xlab = "", ylab = "")
+
+tscales.epoch( 0.9, 0, -0.05)
+
+lines(ext$$Age.Ma, ext$$unb, lwd = 2, col = 'grey35')
+lines(ext$$Age.Ma, ext$$ext.oth.b, lwd = 2, col = 'grey65')
+
+axis(1, col = 'grey75', line = -1.5)
+axis(2, col = 'grey75', line = 0.5, at = seq(0, 0.75, 0.25))
+
+mtext("Age (Ma)", side = 1, line = 1.0)
+mtext("Extinction rate", side = 2, line = 3)
+
+text(235, 0.75, "Unbuffered", col = 'grey35')
+text(85, 0.5, "Buffered", col = 'grey65')
+</code></pre>
+
+<p><img src="/knitr-figs/tscale.epoch.buff-1.png" alt="plot of chunk tscale.epoch.buff" /></p>
+
+<p>For this particular figure, I think it would help to change the aspect ratio so that the peaks in extinction are not so towering. This way we can see more clearly those times when boffered and unbuffered genera differ in their extinction rates. The goal with time series is to have an aspect ratio that tends to make the average slope at most 45 degrees.</p>
+
+<pre><code class="language-r">par(tcl = -0.2, mgp = c(0,0.5,0))
+plot(ext$$Age.Ma, ext$$q, type = 'n', 
+       xlim = c(250,0), ylim = c(-0.3, 0.85),
+       axes = F, xlab = "", ylab = "")
+
+tscales.epoch( 0.9, -0.05, -0.25)
+
+lines(ext$$Age.Ma, ext$$unb, lwd = 2, col = 'grey35')
+lines(ext$$Age.Ma, ext$$ext.oth.b, lwd = 2, col = 'grey65')
+
+axis(1, col = 'grey75', line = -0.25)
+axis(2, col = 'grey75', line = 0.5, at = seq(0, 0.8, 0.4), labels = c(0,0.4, 0.8))
+
+mtext("Age (Ma)", side = 1, line = 1.0)
+mtext("Extinction rate", side = 2, line = 2)
+
+text(235, 0.75, "Unbuffered", col = 'grey35')
+text(85, 0.5, "Buffered", col = 'grey65')
+</code></pre>
+
+<p><img src="/knitr-figs/tscale.epoch.buffasp-1.png" alt="plot of chunk tscale.epoch.buffasp" /></p>
+
+<p>Shallow slopes on a time series will help us see patterns in the data more clearly (Cleveland, McGill, and McGill 1988; Tufte 2006; Talbot, Gerth, and Hanrahan 2012). In this example we can see that buffered and unbuffered genera diverge in extinction patterns during mass extincitons. When acidification is high, the unbuffered genera (those that can’t physiologically isolate themselves from the background ocean ph) suffer more extinction than buffered genera. Interestingly at the K-Pg extinction buffered genera have higher extinction rates. With the data plotted this way, we can see all the important events, see how they differ from each other and from the background, and see this all without relying on extra statistical information.</p>
+
+<h4 id="references">References</h4>
+
+<p>Cleveland, William S., Marylyn E. McGill and Robert McGill. (1988) The Shape Parameter of a Two-Variable Graph. <em>Journal of the American Statistical Association</em> 83(402):289-300.</p>
+
+<p>Talbot, Justin, John Gerth, and Pat Hanrahan.  (2012) An empirical model of slope ratio comparisons. <em>Visualization and Computer Graphics, IEEE Transactions</em> on 18.12: 2613-2620.</p>
+
+<p>Tufte, Edward. (2006) <em>Beautiful Evidence</em> Graphics Press. New York.</p>
+
+
+<hr class="slender">
+
+</div>
+        </div>
+      </div>
+    </article>
+  </body>
+</html>
