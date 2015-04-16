@@ -1,0 +1,177 @@
+"col","age","period","abbv","epoch","scaleP","scaleE","q","p"
+"Colonial",537,"Cambrian","Cm","Lower Cambrian","light","light",NA,NA
+"Colonial",526,"Cambrian","Cm","Lower Cambrian","light","light",NA,NA
+"Colonial",519,"Cambrian","Cm","Lower Cambrian","light","light",NA,NA
+"Colonial",515.5,"Cambrian","Cm","Lower Cambrian","light","light",NA,NA
+"Colonial",507,"Cambrian","Cm","Middle Cambrian","light","dark",NA,NA
+"Colonial",494.65,"Cambrian","Cm","Upper Cambrian","light","light",NA,NA
+"Colonial",483.45,"Ordovician","O","Early Ordovician","dark","dark",NA,NA
+"Colonial",475.2,"Ordovician","O","Early Ordovician","dark","dark",NA,NA
+"Colonial",469.95,"Ordovician","O","Middle Ordovician","dark","light",NA,NA
+"Colonial",464.5,"Ordovician","O","Middle Ordovician","dark","light",NA,NA
+"Colonial",455.45,"Ordovician","O","Middle Ordovician","dark","light",NA,NA
+"Colonial",447.8,"Ordovician","O","Late Ordovician","dark","dark",NA,NA
+"Colonial",444.65,"Ordovician","O","Late Ordovician","dark","dark",NA,NA
+"Colonial",439.85,"Silurian","S","Llandovery","light","light",NA,NA
+"Colonial",432.1,"Silurian","S","Llandovery","light","light",NA,NA
+"Colonial",425.55,"Silurian","S","Wenlockian","light","dark",NA,NA
+"Colonial",420.8,"Silurian","S","Ludlovian","light","light",NA,NA
+"Colonial",417.35,"Silurian","S","Pridolian","light","dark",NA,NA
+"Colonial",413.6,"Devonian","D","Early Devonian","dark","light",NA,NA
+"Colonial",409.1,"Devonian","D","Early Devonian","dark","light",NA,NA
+"Colonial",402.25,"Devonian","D","Early Devonian","dark","light",NA,NA
+"Colonial",394.65,"Devonian","D","Middle Devonian","dark","dark",NA,NA
+"Colonial",388.55,"Devonian","D","Middle Devonian","dark","dark",NA,NA
+"Colonial",379.9,"Devonian","D","Late Devonian","dark","light",NA,NA
+"Colonial",367.6,"Devonian","D","Late Devonian","dark","light",NA,NA
+"Colonial",353,"Carboniferous","C","Early Mississippian","light","dark",NA,NA
+"Colonial",335.85,"Carboniferous","C","Middle Mississippian","light","dark",NA,NA
+"Colonial",322.25,"Carboniferous","C","Late Mississippian","light","light",NA,NA
+"Colonial",314.9,"Carboniferous","C","Early Pennsylvanian","light","dark",NA,NA
+"Colonial",309.1,"Carboniferous","C","Middle Pennsylvanian","light","light",NA,NA
+"Colonial",305.2,"Carboniferous","C","Late Pennsylvanian","light","dark",NA,NA
+"Colonial",301.45,"Carboniferous","C","Late Pennsylvanian","light","dark",NA,NA
+"Colonial",296.8,"Permian","P","Cisuralian","dark","light",NA,NA
+"Colonial",289.5,"Permian","P","Cisuralian","dark","light",NA,NA
+"Colonial",280,"Permian","P","Cisuralian","dark","light",NA,NA
+"Colonial",273.1,"Permian","P","Cisuralian","dark","light",NA,NA
+"Colonial",268.2,"Permian","P","Guadalupian","dark","dark",NA,NA
+"Colonial",263.1,"Permian","P","Guadalupian","dark","dark",NA,NA
+"Colonial",257.1,"Permian","P","Lopingian","dark","light",NA,NA
+"Colonial",252.4,"Permian","P","Lopingian","dark","light",NA,NA
+"Colonial",250.35,"Triassic","Tr","Early Triassic","light","dark",NA,NA
+"Colonial",247.35,"Triassic","Tr","Early Triassic","light","dark",NA,NA
+"Colonial",241,"Triassic","Tr","Middle Triassic","light","light",NA,NA
+"Colonial",232.5,"Triassic","Tr","Middle Triassic","light","light",0,2.07944154167984
+"Colonial",222.25,"Triassic","Tr","Late Triassic","light","dark",0.980829253011726,2.19722457733622
+"Colonial",210.05,"Triassic","Tr","Late Triassic","light","dark",0.993251773010283,2.01490302054226
+"Colonial",201.6,"Triassic","Tr","Late Triassic","light","dark",2.371577964481,0
+"Colonial",198.05,"Jurassic","J","Early Jurassic","dark","light",0.336472236621213,0.955511445027436
+"Colonial",193.05,"Jurassic","J","Early Jurassic","dark","light",0.262364264467491,0.336472236621213
+"Colonial",186.3,"Jurassic","J","Early Jurassic","dark","light",1.54044504094715,1.09861228866811
+"Colonial",179.3,"Jurassic","J","Early Jurassic","dark","light",0.117783035656384,0.485507815781701
+"Colonial",173.6,"Jurassic","J","Middle Jurassic","dark","dark",0,1.19625075823203
+"Colonial",169.65,"Jurassic","J","Middle Jurassic","dark","dark",0.0723206615796261,0.500775287912489
+"Colonial",166.2,"Jurassic","J","Middle Jurassic","dark","dark",0.164303051291276,0.451985123743057
+"Colonial",162.95,"Jurassic","J","Middle Jurassic","dark","dark",0.287682072451781,0.229185865770172
+"Colonial",158.45,"Jurassic","J","Late Jurassic","dark","light",0.358397597250179,1.23286181417807
+"Colonial",153.25,"Jurassic","J","Late Jurassic","dark","light",0.344544934346324,0.282348726476418
+"Colonial",148.15,"Jurassic","J","Late Jurassic","dark","light",1.46990850116102,0.227783930870712
+"Colonial",142.85,"Cretaceous","K","Early Cretaceous","light","dark",0.0186921330121525,0.124052648669979
+"Colonial",138.3,"Cretaceous","K","Early Cretaceous","light","dark",0.333144446528538,0.556287997842748
+"Colonial",133.2,"Cretaceous","K","Early Cretaceous","light","dark",0.083381608939051,0.309188277672744
+"Colonial",127.5,"Cretaceous","K","Early Cretaceous","light","dark",0.148845627597565,0.554310735705729
+"Colonial",118.5,"Cretaceous","K","Early Cretaceous","light","dark",0.729252185202062,0.551176919289558
+"Colonial",105.8,"Cretaceous","K","Early Cretaceous","light","dark",0.581029882439239,0.0870113769896298
+"Colonial",96.55,"Cretaceous","K","Late Cretaceous","light","light",0.693147180559945,0.476924072090309
+"Colonial",91.25,"Cretaceous","K","Late Cretaceous","light","light",0.476924072090309,0.266628663253949
+"Colonial",87.5,"Cretaceous","K","Late Cretaceous","light","light",0.266628663253949,0.22314355131421
+"Colonial",84.75,"Cretaceous","K","Late Cretaceous","light","light",0.143100843640673,0.343771539102824
+"Colonial",77.05,"Cretaceous","K","Late Cretaceous","light","light",0.606135803570316,0.709676482511156
+"Colonial",68.05,"Cretaceous","K","Late Cretaceous","light","light",1.47181653455805,0.887303195000903
+"Colonial",63.6,"Paleogene","Pg","Paleocene","dark","dark",0.435318071257845,0.276253376628158
+"Colonial",58.75,"Paleogene","Pg","Paleocene","dark","dark",0,0
+"Colonial",52.2,"Paleogene","Pg","Eocene","dark","light",0.0350913198112701,0.194156014440958
+"Colonial",44.5,"Paleogene","Pg","Eocene","dark","light",0.125163142954006,0.569094531889967
+"Colonial",38.8,"Paleogene","Pg","Eocene","dark","light",0.0384662808277961,0.424883193965266
+"Colonial",35.55,"Paleogene","Pg","Eocene","dark","light",0.528067430200497,0.515164025364589
+"Colonial",31.15,"Paleogene","Pg","Oligocene","dark","dark",0.373513508301562,0.730188452240294
+"Colonial",25.7,"Paleogene","Pg","Oligocene","dark","dark",0.80866006768179,0.651474484159377
+"Colonial",24.3,"Neogene","N","Miocene","light","light",0.323787077093897,0.405465108108164
+"Colonial",22.6,"Neogene","N","Miocene","light","light",0.564529802737852,0.6216882165778
+"Colonial",17.1,"Neogene","N","Miocene","light","light",0.117783035656384,0.126999690761307
+"Colonial",14.9,"Neogene","N","Miocene","light","light",0.180488375712294,0.0943106794712413
+"Colonial",13.8,"Neogene","N","Miocene","light","light",0.430782916092454,0.195060582571384
+"Colonial",8.2,"Neogene","N","Miocene","light","light",0.195060582571384,0.256429528947676
+"Colonial",6.2,"Neogene","N","Pleiocene","light","dark",0.387765531008763,0.247408173313841
+"Colonial",4.1,"Neogene","N","Pleiocene","light","dark",1.40008768325223,0.105360515657826
+"Colonial",3,"Neogene","N","Pleiocene","light","dark",NA,NA
+"Colonial",0.9,"Quaternary","","Quaternary","dark","light",NA,NA
+"Solitary",537,"Cambrian","Cm","Lower Cambrian","light","light",NA,NA
+"Solitary",526,"Cambrian","Cm","Lower Cambrian","light","light",NA,NA
+"Solitary",519,"Cambrian","Cm","Lower Cambrian","light","light",NA,NA
+"Solitary",515.5,"Cambrian","Cm","Lower Cambrian","light","light",NA,NA
+"Solitary",507,"Cambrian","Cm","Middle Cambrian","light","dark",NA,NA
+"Solitary",494.65,"Cambrian","Cm","Upper Cambrian","light","light",NA,NA
+"Solitary",483.45,"Ordovician","O","Early Ordovician","dark","dark",NA,NA
+"Solitary",475.2,"Ordovician","O","Early Ordovician","dark","dark",NA,NA
+"Solitary",469.95,"Ordovician","O","Middle Ordovician","dark","light",NA,NA
+"Solitary",464.5,"Ordovician","O","Middle Ordovician","dark","light",NA,NA
+"Solitary",455.45,"Ordovician","O","Middle Ordovician","dark","light",NA,NA
+"Solitary",447.8,"Ordovician","O","Late Ordovician","dark","dark",NA,NA
+"Solitary",444.65,"Ordovician","O","Late Ordovician","dark","dark",NA,NA
+"Solitary",439.85,"Silurian","S","Llandovery","light","light",NA,NA
+"Solitary",432.1,"Silurian","S","Llandovery","light","light",NA,NA
+"Solitary",425.55,"Silurian","S","Wenlockian","light","dark",NA,NA
+"Solitary",420.8,"Silurian","S","Ludlovian","light","light",NA,NA
+"Solitary",417.35,"Silurian","S","Pridolian","light","dark",NA,NA
+"Solitary",413.6,"Devonian","D","Early Devonian","dark","light",NA,NA
+"Solitary",409.1,"Devonian","D","Early Devonian","dark","light",NA,NA
+"Solitary",402.25,"Devonian","D","Early Devonian","dark","light",NA,NA
+"Solitary",394.65,"Devonian","D","Middle Devonian","dark","dark",NA,NA
+"Solitary",388.55,"Devonian","D","Middle Devonian","dark","dark",NA,NA
+"Solitary",379.9,"Devonian","D","Late Devonian","dark","light",NA,NA
+"Solitary",367.6,"Devonian","D","Late Devonian","dark","light",NA,NA
+"Solitary",353,"Carboniferous","C","Early Mississippian","light","dark",NA,NA
+"Solitary",335.85,"Carboniferous","C","Middle Mississippian","light","dark",NA,NA
+"Solitary",322.25,"Carboniferous","C","Late Mississippian","light","light",NA,NA
+"Solitary",314.9,"Carboniferous","C","Early Pennsylvanian","light","dark",NA,NA
+"Solitary",309.1,"Carboniferous","C","Middle Pennsylvanian","light","light",NA,NA
+"Solitary",305.2,"Carboniferous","C","Late Pennsylvanian","light","dark",NA,NA
+"Solitary",301.45,"Carboniferous","C","Late Pennsylvanian","light","dark",NA,NA
+"Solitary",296.8,"Permian","P","Cisuralian","dark","light",NA,NA
+"Solitary",289.5,"Permian","P","Cisuralian","dark","light",NA,NA
+"Solitary",280,"Permian","P","Cisuralian","dark","light",NA,NA
+"Solitary",273.1,"Permian","P","Cisuralian","dark","light",NA,NA
+"Solitary",268.2,"Permian","P","Guadalupian","dark","dark",NA,NA
+"Solitary",263.1,"Permian","P","Guadalupian","dark","dark",NA,NA
+"Solitary",257.1,"Permian","P","Lopingian","dark","light",NA,NA
+"Solitary",252.4,"Permian","P","Lopingian","dark","light",NA,NA
+"Solitary",250.35,"Triassic","Tr","Early Triassic","light","dark",NA,NA
+"Solitary",247.35,"Triassic","Tr","Early Triassic","light","dark",NA,NA
+"Solitary",241,"Triassic","Tr","Middle Triassic","light","light",NA,NA
+"Solitary",232.5,"Triassic","Tr","Middle Triassic","light","light",NA,NA
+"Solitary",222.25,"Triassic","Tr","Late Triassic","light","dark",NA,NA
+"Solitary",210.05,"Triassic","Tr","Late Triassic","light","dark",0,1.38629436111989
+"Solitary",201.6,"Triassic","Tr","Late Triassic","light","dark",1.38629436111989,0
+"Solitary",198.05,"Jurassic","J","Early Jurassic","dark","light",0,1.09861228866811
+"Solitary",193.05,"Jurassic","J","Early Jurassic","dark","light",0.405465108108164,0.405465108108164
+"Solitary",186.3,"Jurassic","J","Early Jurassic","dark","light",NA,NA
+"Solitary",179.3,"Jurassic","J","Early Jurassic","dark","light",0,0
+"Solitary",173.6,"Jurassic","J","Middle Jurassic","dark","dark",0,0.693147180559945
+"Solitary",169.65,"Jurassic","J","Middle Jurassic","dark","dark",0,1.38629436111989
+"Solitary",166.2,"Jurassic","J","Middle Jurassic","dark","dark",0.470003629245736,0.78845736036427
+"Solitary",162.95,"Jurassic","J","Middle Jurassic","dark","dark",0.78845736036427,0
+"Solitary",158.45,"Jurassic","J","Late Jurassic","dark","light",1.6094379124341,2.39789527279837
+"Solitary",153.25,"Jurassic","J","Late Jurassic","dark","light",0.606135803570316,0
+"Solitary",148.15,"Jurassic","J","Late Jurassic","dark","light",0.693147180559945,0
+"Solitary",142.85,"Cretaceous","K","Early Cretaceous","light","dark",1.09861228866811,0
+"Solitary",138.3,"Cretaceous","K","Early Cretaceous","light","dark",0,0
+"Solitary",133.2,"Cretaceous","K","Early Cretaceous","light","dark",0,0
+"Solitary",127.5,"Cretaceous","K","Early Cretaceous","light","dark",0,0.693147180559945
+"Solitary",118.5,"Cretaceous","K","Early Cretaceous","light","dark",0,0.916290731874155
+"Solitary",105.8,"Cretaceous","K","Early Cretaceous","light","dark",0.22314355131421,1.09861228866811
+"Solitary",96.55,"Cretaceous","K","Late Cretaceous","light","light",0.693147180559945,0.510825623765991
+"Solitary",91.25,"Cretaceous","K","Late Cretaceous","light","light",0.22314355131421,0.318453731118535
+"Solitary",87.5,"Cretaceous","K","Late Cretaceous","light","light",0,0.0870113769896298
+"Solitary",84.75,"Cretaceous","K","Late Cretaceous","light","light",0,0.287682072451781
+"Solitary",77.05,"Cretaceous","K","Late Cretaceous","light","light",0.133531392624523,0.405465108108164
+"Solitary",68.05,"Cretaceous","K","Late Cretaceous","light","light",0.741937344729377,0.262364264467491
+"Solitary",63.6,"Paleogene","Pg","Paleocene","dark","dark",1.87180217690159,0.916290731874155
+"Solitary",58.75,"Paleogene","Pg","Paleocene","dark","dark",0,0
+"Solitary",52.2,"Paleogene","Pg","Eocene","dark","light",0,0.470003629245736
+"Solitary",44.5,"Paleogene","Pg","Eocene","dark","light",0,0.628608659422374
+"Solitary",38.8,"Paleogene","Pg","Eocene","dark","light",1.09861228866811,0.8754687373539
+"Solitary",35.55,"Paleogene","Pg","Eocene","dark","light",0.538996500732687,0.356674943938732
+"Solitary",31.15,"Paleogene","Pg","Oligocene","dark","dark",0.22314355131421,0.318453731118535
+"Solitary",25.7,"Paleogene","Pg","Oligocene","dark","dark",0.606135803570316,1.20397280432594
+"Solitary",24.3,"Neogene","N","Miocene","light","light",0,0
+"Solitary",22.6,"Neogene","N","Miocene","light","light",0.287682072451781,0.624154309072994
+"Solitary",17.1,"Neogene","N","Miocene","light","light",0.0741079721537218,0.143100843640673
+"Solitary",14.9,"Neogene","N","Miocene","light","light",0.22314355131421,0.0408219945202552
+"Solitary",13.8,"Neogene","N","Miocene","light","light",1.6094379124341,0.470003629245736
+"Solitary",8.2,"Neogene","N","Miocene","light","light",0.287682072451781,0.510825623765991
+"Solitary",6.2,"Neogene","N","Pleiocene","light","dark",0.510825623765991,0.405465108108164
+"Solitary",4.1,"Neogene","N","Pleiocene","light","dark",NA,NA
+"Solitary",3,"Neogene","N","Pleiocene","light","dark",NA,NA
+"Solitary",0.9,"Quaternary","","Quaternary","dark","light",NA,NA

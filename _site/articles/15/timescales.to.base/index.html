@@ -38,7 +38,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Add a timescale to a figure</title>
+  <title>Add a timescale in base R graphics</title>
   <meta name="description" content="Timescales on figures are helpfulIt is a good idea to add geological timescales to plots that show patterns over the Phanerozic. Timescales help the reader o...">
 
 
@@ -59,7 +59,17 @@
   <script type="text/javascript" src="/js/jquery.min.js"></script>
   <script type="text/javascript" src="/js/d3.min.js"></script>
 
+<! -- google analytics -- >
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-52984046-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 
  
   <link rel="canonical" href="/articles/15/timescales.to.base">
@@ -80,7 +90,7 @@
 		<div class="two columns">
 			<h5><a href="https://github.com/simpson-carl">Code</a></h5></div>
     	<div class="two columns">
-			<h5><a href="/bryozoan">Bryozoans</a></h5></div>
+			<h5><a href="/sorted-posts/bryozoan">Bryozoans</a></h5></div>
 	</div>
 </div><!-- container -->
 
@@ -89,7 +99,7 @@
     <div class="container">
       <div class="row">
         <div class="twelve columns">
-          <h1>Add a timescale to a figure</h1>
+          <h1>Add a timescale in base r graphics</h1>
 		<h4 id="timescales-on-figures-are-helpful">Timescales on figures are helpful</h4>
 <p>It is a good idea to add geological timescales to plots that show patterns over the Phanerozic. Timescales help the reader orient themselves with the new and interesting data that we want to show them. They can see more detail and with this orientation it is also easier for them to critically evaluate the pattern in the plot. Having a timescale on a plot is a win for the reader and it is a win for the author.</p>
 
@@ -126,6 +136,8 @@
 
 <h4 id="a-basic-time-series">A basic time series</h4>
 <p>For these examples, I’ll plot time series of extinction rates. These examples are patterns of extinction for marine invertebrates over the Phanerozoic, including splits for physiologically buffered and unbuffered taxa (from Kiessling and Simpson 2011).</p>
+
+<p>Here is a link to this time series <a href="/data/ext.csv">data</a>, a link to the timescale <a href="/R/timescale.functions.R">functions</a>, and links to <a href="/data/periods.csv">period</a> and <a href="/data/epochs.csv">epoch</a> interval ages.</p>
 
 <pre><code class="language-r">ext &lt;- read.csv("~/Dropbox/projects/Rmarkdown/timescales/ext.csv", header = T)
 
@@ -181,7 +193,7 @@ Which is not very helpful.</p>
 
 tscales.period(1.5, 0, -0.1)
 
-lines(ext$$Age.Ma, ext$$q, lwd = 2)
+ lines(ext$$Age.Ma, ext$$q, lwd = 2)
 
 axis(1, col = 'grey75', line = -0.5)
 axis(2, col = 'grey75', line = -2, at = seq(0, 1.5, 0.25))
@@ -300,6 +312,30 @@ text(85, 0.5, "Buffered", col = 'grey65')
 <p><img src="/knitr-figs/tscale.epoch.buffasp-1.png" alt="plot of chunk tscale.epoch.buffasp" /></p>
 
 <p>Shallow slopes on a time series will help us see patterns in the data more clearly (Cleveland, McGill, and McGill 1988; Tufte 2006; Talbot, Gerth, and Hanrahan 2012). In this example we can see that buffered and unbuffered genera diverge in extinction patterns during mass extincitons. When acidification is high, the unbuffered genera (those that can’t physiologically isolate themselves from the background ocean ph) suffer more extinction than buffered genera. Interestingly at the K-Pg extinction buffered genera have higher extinction rates. With the data plotted this way, we can see all the important events, see how they differ from each other and from the background, and see this all without relying on extra statistical information.</p>
+
+<p>A wide and short figure even works for a longer time series.</p>
+
+<pre><code class="language-r">par(tcl = -0.2, mgp = c(0,0.5,0))
+plot(ext$$Age.Ma, ext$$q, type = 'n', 
+       xlim = c(450,0), ylim = c(-0.3, 1.0),
+       axes = F, xlab = "", ylab = "")
+
+tscales.period(1.5, 0, -0.2)
+
+# lines(ext$$Age.Ma, ext$$q, lwd = 2)
+lines(ext$$Age.Ma, ext$$unb, lwd = 2, col = 'grey35')
+lines(ext$$Age.Ma, ext$$ext.oth.b, lwd = 2, col = 'grey65')
+
+axis(1, col = 'grey75', line = -0.5)
+axis(2, col = 'grey75', line = 0, at = seq(0, 1.5, 0.25))
+
+mtext("Age (Ma)", side = 1, line = 1.5)
+mtext("Extinction rate", side = 2, line = 1.5)
+text(350, 0.6, "Unbuffered", col = 'grey35')
+text(88, 0.5, "Buffered", col = 'grey65')
+</code></pre>
+
+<p><img src="/knitr-figs/tscale.all.asp-1.png" alt="plot of chunk tscale.all.asp" /></p>
 
 <h4 id="references">References</h4>
 

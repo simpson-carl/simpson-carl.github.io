@@ -1,5 +1,5 @@
 ---
-title: "Add a timescale to a figure"
+title: "Add a timescale in base R graphics"
 author: "Carl Simpson"
 date: "April 12, 2015"
 output:
@@ -45,6 +45,8 @@ If this backdrop is too light, the specific greys can be changed. But in my expe
 
 #### A basic time series
 For these examples, I'll plot time series of extinction rates. These examples are patterns of extinction for marine invertebrates over the Phanerozoic, including splits for physiologically buffered and unbuffered taxa (from Kiessling and Simpson 2011). 
+
+Here is a link to this time series [data]({{ site.url }}/data/ext.csv), a link to the timescale [functions]({{ site.url }}/R/timescale.functions.R), and links to [period]({{ site.url }}/data/periods.csv) and [epoch]({{ site.url }}/data/epochs.csv) interval ages.
 
 ```r
 ext <- read.csv("~/Dropbox/projects/Rmarkdown/timescales/ext.csv", header = T)
@@ -104,7 +106,7 @@ plot(ext$$Age.Ma, ext$$q, type = 'n',
 
 tscales.period(1.5, 0, -0.1)
 
-lines(ext$$Age.Ma, ext$$q, lwd = 2)
+ lines(ext$$Age.Ma, ext$$q, lwd = 2)
 
 axis(1, col = 'grey75', line = -0.5)
 axis(2, col = 'grey75', line = -2, at = seq(0, 1.5, 0.25))
@@ -231,6 +233,32 @@ text(85, 0.5, "Buffered", col = 'grey65')
 ![plot of chunk tscale.epoch.buffasp](/knitr-figs/tscale.epoch.buffasp-1.png) 
 
 Shallow slopes on a time series will help us see patterns in the data more clearly (Cleveland, McGill, and McGill 1988; Tufte 2006; Talbot, Gerth, and Hanrahan 2012). In this example we can see that buffered and unbuffered genera diverge in extinction patterns during mass extincitons. When acidification is high, the unbuffered genera (those that can't physiologically isolate themselves from the background ocean ph) suffer more extinction than buffered genera. Interestingly at the K-Pg extinction buffered genera have higher extinction rates. With the data plotted this way, we can see all the important events, see how they differ from each other and from the background, and see this all without relying on extra statistical information.
+
+A wide and short figure even works for a longer time series.
+
+```r
+par(tcl = -0.2, mgp = c(0,0.5,0))
+plot(ext$$Age.Ma, ext$$q, type = 'n', 
+       xlim = c(450,0), ylim = c(-0.3, 1.0),
+       axes = F, xlab = "", ylab = "")
+
+tscales.period(1.5, 0, -0.2)
+
+# lines(ext$$Age.Ma, ext$$q, lwd = 2)
+lines(ext$$Age.Ma, ext$$unb, lwd = 2, col = 'grey35')
+lines(ext$$Age.Ma, ext$$ext.oth.b, lwd = 2, col = 'grey65')
+
+axis(1, col = 'grey75', line = -0.5)
+axis(2, col = 'grey75', line = 0, at = seq(0, 1.5, 0.25))
+
+mtext("Age (Ma)", side = 1, line = 1.5)
+mtext("Extinction rate", side = 2, line = 1.5)
+text(350, 0.6, "Unbuffered", col = 'grey35')
+text(88, 0.5, "Buffered", col = 'grey65')
+```
+
+![plot of chunk tscale.all.asp](/knitr-figs/tscale.all.asp-1.png) 
+
 
 #### References
 
