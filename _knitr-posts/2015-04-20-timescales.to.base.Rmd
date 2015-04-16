@@ -270,6 +270,8 @@ text(88, 0.5, "Buffered", col = 'grey65')
 
 Cleveland, William S., Marylyn E. McGill and Robert McGill. (1988) The Shape Parameter of a Two-Variable Graph. *Journal of the American Statistical Association* 83(402):289-300.
 
+Kiessling, Wolfgang, and Carl Simpson. "On the potential for ocean acidification to be a general cause of ancient reef crises." *Global Change Biology* 17.1 (2011): 56-67.
+
 Talbot, Justin, John Gerth, and Pat Hanrahan.  (2012) An empirical model of slope ratio comparisons. *Visualization and Computer Graphics, IEEE Transactions* on 18.12: 2613-2620.
 
 Tufte, Edward. (2006) *Beautiful Evidence* Graphics Press. New York.
