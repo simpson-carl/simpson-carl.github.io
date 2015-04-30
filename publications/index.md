@@ -13,7 +13,7 @@ title: Publications
 <hr class="slender">
 
 
-1. Seth Finnegan, Sean C. Anderson, Paul G. Harnik, **Carl Simpson**, Derek P. Tittensor, Jarrett E. Byrnes, Zoe V. Finkel, David R. Lindberg, Lee Hsiang Liow, Rowan Lockwood, Heike K. Lotze, Craig M. McClain, Jenny L. McGuire, Aaron O’Dea, John M. Pandolfi (Accepted) Paleontological baselines for evaluating extinction risk in the modern oceans. *Science*. 
+1. Seth Finnegan, Sean C. Anderson, Paul G. Harnik, **Carl Simpson**, Derek P. Tittensor, Jarrett E. Byrnes, Zoe V. Finkel, David R. Lindberg, Lee Hsiang Liow, Rowan Lockwood, Heike K. Lotze, Craig M. McClain, Jenny L. McGuire, Aaron O’Dea, John M. Pandolfi (2015) Paleontological baselines for evaluating extinction risk in the modern oceans. *Science*. 348(6234): 567-570. DOI: 10.1126/science.aaa6635
 
 2. **Simpson, C.** and Erwin, D.H., 2014. Enriching macroevolution. *Science*. 344(6189): 1234-1235.
 
