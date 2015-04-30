@@ -7,7 +7,7 @@ simple_search: http://google.com/search
 analytics :
   provider : google
   google : 
-      tracking_id : 'UA-52984046-1'
+      tracking_id : 'UA-52984046-2'
 
 description: 
 name: Carl Simpson
