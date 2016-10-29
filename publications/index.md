@@ -17,11 +17,11 @@ title: Publications
 
 2. **Simpson, C.**, Jackson, J. B. C., Herrera-Cubilla, A. 2016. Evolutionary determinants of morphological polymorphism in colonial animals. bioRxiv doi: http://dx.doi.org/10.1101/046409 
 
-3. **Simpson, C.** In Press. Understanding macroevolution through the origin of higher taxa. Ecology
+3. **Simpson, C.** In Press. Understanding macroevolution through the origin of higher taxa. *Ecology*
 
 Soreghan, G.S., Heavens, N.G., Hinnov,L.A.,  Aciego, S.M., and **Simpson, C.**. 2015. Reconstructing the dust cycle in deep time: The case of the late Paleozoic icehouse. In, *Earth-Life Transitions: Paleobiology in the context of Earth System Evolution*. P. David Polly, Jason J. Head, and David L. Fox, editors. The Paleontological Society Papers volume 21. pp. 83 - 120
 
-3. Orzechowski, E.A., R. Lockwood, J.E. Byrnes, S.C. Anderson*, S. Finnegan, Z.V. Finkel, P.G. Harnik, D.R. Lindberg, L.H. Liow, H.K. Lotze, C.R. McClain, J.L. McGuire, A. O’Dea, J.M. Pandolfi, **C. Simpson**, D.P. Tittensor. Marine extinction risk shaped by trait-environment interactions over 500 million years. 2015. Global Change Biology. 21(10): 3595–3607. doi: 10.1111/gcb.12963
+3. Orzechowski, E.A., R. Lockwood, J.E. Byrnes, S.C. Anderson*, S. Finnegan, Z.V. Finkel, P.G. Harnik, D.R. Lindberg, L.H. Liow, H.K. Lotze, C.R. McClain, J.L. McGuire, A. O’Dea, J.M. Pandolfi, **C. Simpson**, D.P. Tittensor. Marine extinction risk shaped by trait-environment interactions over 500 million years. 2015. *Global Change Biology*. 21(10): 3595–3607. doi: 10.1111/gcb.12963
 
 4. Finnegan, S., Anderson, S.C., Harnik P.G., **Simpson, C.**, Tittensor, D.P., Byrnes, J.E., Finkel, Z.V., Lindberg, D.R., Liow, L.H., Lockwood, R. Lotze, H.K., McClain, C.M., McGuire, J.L., O’Dea, A., Pandolfi, J.M. (2015) Paleontological baselines for evaluating extinction risk in the modern oceans. *Science*. 348(6234): 567-570. DOI: 10.1126/science.aaa6635
 
