@@ -19,7 +19,7 @@ title: Publications
 
 3. **Simpson, C.** In Press. Understanding macroevolution through the origin of higher taxa. *Ecology*
 
-Soreghan, G.S., Heavens, N.G., Hinnov,L.A.,  Aciego, S.M., and **Simpson, C.**. 2015. Reconstructing the dust cycle in deep time: The case of the late Paleozoic icehouse. In, *Earth-Life Transitions: Paleobiology in the context of Earth System Evolution*. P. David Polly, Jason J. Head, and David L. Fox, editors. The Paleontological Society Papers volume 21. pp. 83 - 120
+6. Soreghan, G.S., Heavens, N.G., Hinnov,L.A.,  Aciego, S.M., and **Simpson, C.**. 2015. Reconstructing the dust cycle in deep time: The case of the late Paleozoic icehouse. In, *Earth-Life Transitions: Paleobiology in the context of Earth System Evolution*. P. David Polly, Jason J. Head, and David L. Fox, editors. The Paleontological Society Papers volume 21. pp. 83 - 120
 
 3. Orzechowski, E.A., R. Lockwood, J.E. Byrnes, S.C. Anderson*, S. Finnegan, Z.V. Finkel, P.G. Harnik, D.R. Lindberg, L.H. Liow, H.K. Lotze, C.R. McClain, J.L. McGuire, A. O’Dea, J.M. Pandolfi, **C. Simpson**, D.P. Tittensor. Marine extinction risk shaped by trait-environment interactions over 500 million years. 2015. *Global Change Biology*. 21(10): 3595–3607. doi: 10.1111/gcb.12963
 
