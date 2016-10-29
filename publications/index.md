@@ -13,11 +13,13 @@ title: Publications
 <hr class="slender">
 
 
+1. Simpson, C. 2016. The case for species selection. bioRxiv doi: http://dx.doi.org/10.1101/084046
+
 2. **Simpson, C.**, Jackson, J. B. C., Herrera-Cubilla, A. 2016. Evolutionary determinants of morphological polymorphism in colonial animals. bioRxiv doi: http://dx.doi.org/10.1101/046409 
 
-1. Orzechowski, E.A., R. Lockwood, J.E. Byrnes, S.C. Anderson*, S. Finnegan, Z.V. Finkel, P.G. Harnik, D.R. Lindberg, L.H. Liow, H.K. Lotze, C.R. McClain, J.L. McGuire, A. O’Dea, J.M. Pandolfi, **C. Simpson**, D.P. Tittensor. Marine extinction risk shaped by trait-environment interactions over 500 million years. 2015. Global Change Biology. 21(10): 3595–3607. doi: 10.1111/gcb.12963
+3. Orzechowski, E.A., R. Lockwood, J.E. Byrnes, S.C. Anderson*, S. Finnegan, Z.V. Finkel, P.G. Harnik, D.R. Lindberg, L.H. Liow, H.K. Lotze, C.R. McClain, J.L. McGuire, A. O’Dea, J.M. Pandolfi, **C. Simpson**, D.P. Tittensor. Marine extinction risk shaped by trait-environment interactions over 500 million years. 2015. Global Change Biology. 21(10): 3595–3607. doi: 10.1111/gcb.12963
 
-1. Seth Finnegan, Sean C. Anderson, Paul G. Harnik, **Carl Simpson**, Derek P. Tittensor, Jarrett E. Byrnes, Zoe V. Finkel, David R. Lindberg, Lee Hsiang Liow, Rowan Lockwood, Heike K. Lotze, Craig M. McClain, Jenny L. McGuire, Aaron O’Dea, John M. Pandolfi (2015) Paleontological baselines for evaluating extinction risk in the modern oceans. *Science*. 348(6234): 567-570. DOI: 10.1126/science.aaa6635
+4. Seth Finnegan, Sean C. Anderson, Paul G. Harnik, **Carl Simpson**, Derek P. Tittensor, Jarrett E. Byrnes, Zoe V. Finkel, David R. Lindberg, Lee Hsiang Liow, Rowan Lockwood, Heike K. Lotze, Craig M. McClain, Jenny L. McGuire, Aaron O’Dea, John M. Pandolfi (2015) Paleontological baselines for evaluating extinction risk in the modern oceans. *Science*. 348(6234): 567-570. DOI: 10.1126/science.aaa6635
 
 2. **Simpson, C.** and Erwin, D.H., 2014. Enriching macroevolution. *Science*. 344(6189): 1234-1235.
 
