@@ -17,7 +17,7 @@ title: Publications
 
 2. **Simpson, C.**, Jackson, J. B. C., Herrera-Cubilla, A. 2016. Evolutionary determinants of morphological polymorphism in colonial animals. bioRxiv doi: http://dx.doi.org/10.1101/046409 
 
-3. **Simpson, C.** In Press. Understanding macroevolution through the origin of higher taxa. *Ecology*
+3.Simpson, C. 2016. Understanding macroevolution through the origin of higher taxa. *Ecology*, 97: 3246–3248. doi:10.1002/ecy.1550
 
 6. Soreghan, G.S., Heavens, N.G., Hinnov,L.A.,  Aciego, S.M., and **Simpson, C.**. 2015. Reconstructing the dust cycle in deep time: The case of the late Paleozoic icehouse. In, *Earth-Life Transitions: Paleobiology in the context of Earth System Evolution*. P. David Polly, Jason J. Head, and David L. Fox, editors. The Paleontological Society Papers volume 21. pp. 83 - 120
 
