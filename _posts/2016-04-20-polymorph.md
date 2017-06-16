@@ -4,7 +4,7 @@ title: Evolutionary determinants of morphological polymorphism in colonial anima
 tags: paper bryozoan colonies coloniality polymorphism macroevoluiton
 ---
 
-Simpson, C., Jackson, J. B. C., Herrera-Cubilla, A. Accepted. Evolutionary determinants of morphological polymorphism in colonial animals. *American Naturalist*. 
+Simpson, C., Jackson, J. B. C., Herrera-Cubilla, A. 2017. Evolutionary determinants of morphological polymorphism in colonial animals. *American Naturalist*. 190(1): 17-28. [link](http://www.journals.uchicago.edu/doi/abs/10.1086/691789)
 
 Preprint version available at bioRxiv doi: http://dx.doi.org/10.1101/046409 [pdf]({{ site.url }}/papers/Bryozoan 2016 Simpson.pdf)
 
