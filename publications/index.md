@@ -12,7 +12,7 @@ title: Publications
 
 <hr class="slender">
 
-1. Simpson, C. 2018. Serving up light. Current Biology 28(16): R873-R875
+1. **Simpson, C.** 2018. Serving up light. Current Biology 28(16): R873-R875
 
 
 1. Hopkins, M. J., D. W. Bapst, **C. Simpson**, R. C. M. Warnock, 2018. The inseparability of sampling and time and its influence on attempts to unify the molecular and fossil records. Paleobiology, 44(4): 561-574. doi:10.1017/pab.2018.27
