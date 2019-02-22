@@ -12,10 +12,17 @@ title: Publications
 
 <hr class="slender">
 
+1. Simpson, C. 2018. Serving up light. Current Biology 28(16): R873-R875
 
-1. **Simpson, C.** 2016. The case for species selection. bioRxiv doi: http://dx.doi.org/10.1101/084046
 
-2. **Simpson, C.**, Jackson, J. B. C., Herrera-Cubilla, A. Accepted. Evolutionary determinants of morphological polymorphism in colonial animals. *American Naturalist*. Preprint available at bioRxiv doi: http://dx.doi.org/10.1101/046409 
+1. Hopkins, M. J., D. W. Bapst, **C. Simpson**, R. C. M. Warnock, 2018. The inseparability of sampling and time and its influence on attempts to unify the molecular and fossil records. Paleobiology, 44(4): 561-574. doi:10.1017/pab.2018.27
+
+
+1. **Simpson, C.** 2017. The measurement of species selection on evolving characters. bioRχiv. http://doi.org/10.1101/176438
+
+1. **Simpson, C.** 2017. The case for species selection. bioRxiv doi: http://dx.doi.org/10.1101/084046
+
+2. **Simpson, C.**, Jackson, J. B. C., Herrera-Cubilla, A. Accepted. Evolutionary determinants of morphological polymorphism in colonial animals. *American Naturalist* 190(1):17-28. Preprint available at bioRxiv doi: http://dx.doi.org/10.1101/046409 
 
 3. **Simpson, C.** 2016. Understanding macroevolution through the origin of higher taxa. *Ecology*, 97: 3246–3248. doi:10.1002/ecy.1550
 
