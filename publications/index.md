@@ -12,6 +12,9 @@ title: Publications
 
 <hr class="slender">
 
+1. **Simpson, C.**, A Herrera-Cubilla, and J.B.C Jackson. in press. How colonial animals evolve.  *Science Advances*
+
+
 1. **Simpson, C.** 2018. Serving up light. *Current Biology* 28(16): R873-R875
 
 
