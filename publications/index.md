@@ -12,7 +12,10 @@ title: Publications
 
 <hr class="slender">
 
-1. **Simpson, C.**, A Herrera-Cubilla, and J.B.C Jackson. in press. How colonial animals evolve.  *Science Advances*
+1. Hiebert, LS, **Simpson, C**, Tiozzo, S. Coloniality, clonality, and modularity in animals: The elephant in the room. J Exp Zool (Mol Dev Evol). 2020; 1– 14. https://doi.org/10.1002/jez.b.22944
+
+
+1. **Simpson, C.**, A Herrera-Cubilla, and J.B.C Jackson. 2020. How colonial animals evolve.  *Science Advances* 6 : eaaw9530
 
 
 1. **Simpson, C.** 2018. Serving up light. *Current Biology* 28(16): R873-R875
