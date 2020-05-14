@@ -30,7 +30,7 @@ title: Publications
 
 1. **Simpson, C.** 2017. The case for species selection. *bioRχiv* doi: http://dx.doi.org/10.1101/084046
 
-2. **Simpson, C.**, Jackson, J. B. C., Herrera-Cubilla, A. Accepted. Evolutionary determinants of morphological polymorphism in colonial animals. *American Naturalist* 190(1):17-28. Preprint available at *bioRχiv* doi: http://dx.doi.org/10.1101/046409 
+2. **Simpson, C.**, Jackson, J. B. C., Herrera-Cubilla, A. 2017. Evolutionary determinants of morphological polymorphism in colonial animals. *American Naturalist* 190(1):17-28. Preprint available at *bioRχiv* doi: http://dx.doi.org/10.1101/046409 
 
 3. **Simpson, C.** 2016. Understanding macroevolution through the origin of higher taxa. *Ecology*, 97: 3246–3248. doi:10.1002/ecy.1550
 
