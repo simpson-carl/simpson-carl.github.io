@@ -12,7 +12,9 @@ title: Publications
 
 <hr class="slender">
 
-1. Hiebert, LS, **Simpson, C**, Tiozzo, S. Coloniality, clonality, and modularity in animals: The elephant in the room. J Exp Zool (Mol Dev Evol). 2020; 1– 14. https://doi.org/10.1002/jez.b.22944
+1. **Simpson, C.** 2020.  An ecological driver for the macroevolution of morphological polymorphism within colonial invertebrates. J Exp Zool (Mol Dev Evol). DOI: 10.1002/(ISSN)1552-5015
+
+1. Hiebert, LS, **Simpson, C**, Tiozzo, S. 2020. Coloniality, clonality, and modularity in animals: The elephant in the room. J Exp Zool (Mol Dev Evol). 1– 14. https://doi.org/10.1002/jez.b.22944
 
 
 1. **Simpson, C.**, A Herrera-Cubilla, and J.B.C Jackson. 2020. How colonial animals evolve.  *Science Advances* 6 : eaaw9530
