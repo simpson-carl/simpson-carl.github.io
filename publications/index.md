@@ -11,6 +11,8 @@ title: Publications
 
 
 <hr class="slender">
+1. Laurel Sky Hiebert, Leandro M. Vieira, Stefano Tiozzo, **Carl Simpson**, Richard K. Grosberg, Alvaro E. Migotto, Andre C. Morandini, Federico D. Brown
+**Simpson, C.** (2021)  From the individual to the colony: marine invertebrates as models to understand levels of biological organization. Journal of Experimental Zoology Part B: Molecular and Developmental Evolution.
 
 1. **Simpson, C.** 2020.  An ecological driver for the macroevolution of morphological polymorphism within colonial invertebrates. J Exp Zool (Mol Dev Evol). DOI: 10.1002/(ISSN)1552-5015
 
