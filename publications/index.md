@@ -11,6 +11,9 @@ title: Publications
 
 
 <hr class="slender">
+1. **Simpson, C.** Accepted. Adaptation to a viscous Snowball Earth Ocean as a path to complex multicellularity. *American Naturalist*.
+
+
 1. Laurel Sky Hiebert, Leandro M. Vieira, Stefano Tiozzo, **Carl Simpson**, Richard K. Grosberg, Alvaro E. Migotto, Andre C. Morandini, Federico D. Brown
 **Simpson, C.** (2021)  From the individual to the colony: marine invertebrates as models to understand levels of biological organization. J Exp Zool (Mol Dev Evol).
 
