@@ -11,7 +11,9 @@ title: Publications
 
 
 <hr class="slender">
-1. **Simpson, C.** Accepted. Adaptation to a viscous Snowball Earth Ocean as a path to complex multicellularity. *American Naturalist*.
+1. Leslie, A.B., **Simpson, C.**, and Mander, L. 2021. Pulsed rise in plant complexity linked to reproductive innovations.  *Science* 373: 1368–1372. doi.org/10.1126/science.abi6984
+
+1. **Simpson, C.** 2021. Adaptation to a viscous Snowball Earth Ocean as a path to complex multicellularity. *American Naturalist*. 198:5. doi.org/10.1086/716634
 
 
 1. Laurel Sky Hiebert, Leandro M. Vieira, Stefano Tiozzo, **Carl Simpson**, Richard K. Grosberg, Alvaro E. Migotto, Andre C. Morandini, Federico D. Brown
