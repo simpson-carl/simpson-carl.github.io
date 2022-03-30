@@ -11,8 +11,20 @@ title: Publications
 
 
 <hr class="slender">
+1. Leslie, A.B., **Simpson, C.**, and Mander, L. 2021. Pulsed rise in plant complexity linked to reproductive innovations.  *Science* 373: 1368–1372. doi.org/10.1126/science.abi6984
 
-1. **Simpson, C.**, A Herrera-Cubilla, and J.B.C Jackson. in press. How colonial animals evolve.  *Science Advances*
+1. **Simpson, C.** 2021. Adaptation to a viscous Snowball Earth Ocean as a path to complex multicellularity. *American Naturalist*. 198:5. doi.org/10.1086/716634
+
+
+1. Laurel Sky Hiebert, Leandro M. Vieira, Stefano Tiozzo, **Carl Simpson**, Richard K. Grosberg, Alvaro E. Migotto, Andre C. Morandini, Federico D. Brown
+**Simpson, C.** (2021)  From the individual to the colony: marine invertebrates as models to understand levels of biological organization. J Exp Zool (Mol Dev Evol).
+
+1. **Simpson, C.** 2020.  An ecological driver for the macroevolution of morphological polymorphism within colonial invertebrates. J Exp Zool (Mol Dev Evol). DOI: 10.1002/(ISSN)1552-5015
+
+1. Hiebert, LS, **Simpson, C**, Tiozzo, S. 2020. Coloniality, clonality, and modularity in animals: The elephant in the room. J Exp Zool (Mol Dev Evol). 1– 14. https://doi.org/10.1002/jez.b.22944
+
+
+1. **Simpson, C.**, A Herrera-Cubilla, and J.B.C Jackson. 2020. How colonial animals evolve.  *Science Advances* 6 : eaaw9530
 
 
 1. **Simpson, C.** 2018. Serving up light. *Current Biology* 28(16): R873-R875
@@ -25,7 +37,7 @@ title: Publications
 
 1. **Simpson, C.** 2017. The case for species selection. *bioRχiv* doi: http://dx.doi.org/10.1101/084046
 
-2. **Simpson, C.**, Jackson, J. B. C., Herrera-Cubilla, A. Accepted. Evolutionary determinants of morphological polymorphism in colonial animals. *American Naturalist* 190(1):17-28. Preprint available at *bioRχiv* doi: http://dx.doi.org/10.1101/046409 
+2. **Simpson, C.**, Jackson, J. B. C., Herrera-Cubilla, A. 2017. Evolutionary determinants of morphological polymorphism in colonial animals. *American Naturalist* 190(1):17-28. Preprint available at *bioRχiv* doi: http://dx.doi.org/10.1101/046409 
 
 3. **Simpson, C.** 2016. Understanding macroevolution through the origin of higher taxa. *Ecology*, 97: 3246–3248. doi:10.1002/ecy.1550
 

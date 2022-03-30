@@ -4,7 +4,6 @@ title: Notebook
 ---
 
 <div class="twelve columns"> 
- <h1 class="content-listing-header sans">Notebook</h1>
   
   <ul class="content">
     {% for post in site.posts %}
