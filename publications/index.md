@@ -11,6 +11,9 @@ title: Publications
 
 
 <hr class="slender">
+
+1. Miller, J.H. and **Simpson, C.**, 2022. When did mammoths go extinct? *Nature* 612, E1–E3. doi.org/10.1038/s41586-022-05416-3
+
 1. Leventhal, S., Jamison-Todd, S., and **Simpson, C.**, 2022. Aggregate Trait Evolvability and Macroevolution in Two Sister Species of the Bryozoan *Stylopoma*, *Evolutionary Biology*. doi.org/10.1007/s11692-022-09588-8
 
 1. **Simpson, C.** and J. B. C. Jackson, 2022. Bryozoan Revelations, *Science Advances*. 8 (13), eabp9344. dooi:10.1126/sciadv.abp9344
