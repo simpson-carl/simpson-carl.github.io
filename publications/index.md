@@ -11,6 +11,7 @@ title: Publications
 
 
 <hr class="slender">
+
 1. **Simpson, C.**, 2023. Coming together to understand multicellularity. Trends in Ecology and Evolution. https://doi.org/10.1016/j.tree.2023.01.007
 
 1. Miller, J.H. and **Simpson, C.**, 2022. When did mammoths go extinct? *Nature* 612, E1–E3. doi.org/10.1038/s41586-022-05416-3
