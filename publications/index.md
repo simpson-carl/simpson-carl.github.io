@@ -12,6 +12,8 @@ title: Publications
 
 <hr class="slender">
 
+1. Trower, E. J., Gutoski, J. R., Wala, V. T., Mackey, T. J., & **Simpson, C.** (2023). Tonian low-latitude marine ecosystems were cold before Snowball Earth. Geophysical Research Letters, 50, e2022GL101903. https://doi.org/10.1029/2022GL101903
+
 1. **Simpson, C.**, 2023. Coming together to understand multicellularity. Trends in Ecology and Evolution. https://doi.org/10.1016/j.tree.2023.01.007
 
 1. Miller, J.H. and **Simpson, C.**, 2022. When did mammoths go extinct? *Nature* 612, E1–E3. doi.org/10.1038/s41586-022-05416-3
