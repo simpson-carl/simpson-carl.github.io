@@ -11,6 +11,7 @@ title: Publications
 
 
 <hr class="slender">
+1. **Simpson, C.** (2023) Levels of Organization in the Biological Sciences. Vienna Series in Theoretical Biology edited by Daniel S. Brooks, James DiFrisco, and William C. Wimsatt. The Quarterly Review of Biology 2023 98:2, 88-88
 
 1. Trower, E. J., Gutoski, J. R., Wala, V. T., Mackey, T. J., & **Simpson, C.** (2023). Tonian low-latitude marine ecosystems were cold before Snowball Earth. Geophysical Research Letters, 50, e2022GL101903. https://doi.org/10.1029/2022GL101903
 
