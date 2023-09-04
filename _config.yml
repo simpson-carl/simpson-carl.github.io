@@ -5,9 +5,9 @@ author: Carl Simpson
 simple_search: http://google.com/search
 
 analytics :
-  provider : google
+  provider : 
   google : 
-      tracking_id : 'UA-52984046-2'
+      tracking_id : 
 
 description: 
 name: Carl Simpson
