@@ -11,6 +11,8 @@ title: Publications
 
 
 <hr class="slender">
+1. Leventhal, S.,  Stowe, K., and **Simpson, C.**, 2023. Early proliferation of avicularia in the Cretaceous cheilostome bryozoan  *Wilbertopora*: a diversification event guided by ecological exploration.  In: Bryozoan Studies 2022: Proceedings Of The Nineteenth International Bryozoology Association Conference (Dublin, Ireland, 22-26 August 2022) (1st ed.), (Eds, Key, M. M., Porter, J., S., & Wyse Jackson, P. N. ). CRC Press. doi.org/10.1201/9781003454915-10
+
 1. **Simpson, C.** (2023) Levels of Organization in the Biological Sciences. Vienna Series in Theoretical Biology edited by Daniel S. Brooks, James DiFrisco, and William C. Wimsatt. The Quarterly Review of Biology 2023 98:2, 88-88
 
 1. Trower, E. J., Gutoski, J. R., Wala, V. T., Mackey, T. J., & **Simpson, C.** (2023). Tonian low-latitude marine ecosystems were cold before Snowball Earth. Geophysical Research Letters, 50, e2022GL101903. https://doi.org/10.1029/2022GL101903
