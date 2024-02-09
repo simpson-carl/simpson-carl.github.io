@@ -11,6 +11,9 @@ title: Publications
 
 
 <hr class="slender">
+
+1. Halling, A., Goodson, B., Hirschmann, A., Wing, B. A., and *Simpson, C.*, 2024. Experimental Snowball Earth Viscosity Drives the Evolution of Motile Multicellularity. bioRxiv. doi.org/10.1101/2024.02.06.579218
+
 1. Crockett, W.W., Shaw, J.O., * Simpson, C.*, and Kemps, C.P. 2023. Physical constraints during Snowball Earth drive the evolution of multicellularity.  bioRXiv doi.org/10.1101/2023.12.07.570654
 
 1. Leventhal, S.,  Stowe, K., and **Simpson, C.**, 2023. Early proliferation of avicularia in the Cretaceous cheilostome bryozoan  *Wilbertopora*: a diversification event guided by ecological exploration.  In: Bryozoan Studies 2022: Proceedings Of The Nineteenth International Bryozoology Association Conference (Dublin, Ireland, 22-26 August 2022) (1st ed.), (Eds, Key, M. M., Porter, J., S., & Wyse Jackson, P. N. ). CRC Press. doi.org/10.1201/9781003454915-10
