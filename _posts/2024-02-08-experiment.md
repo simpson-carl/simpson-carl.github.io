@@ -5,7 +5,7 @@ tags: paper  macroevolution multicellularity colonies coloniality
 ---
 
 
-Halling, A., Goodson, B., Hirschmann, A., Wing, B. A., and *Simpson, C.*, 2024. Experimental Snowball Earth Viscosity Drives the Evolution of Motile Multicellularity. bioRxiv. doi.org/10.1101/2024.02.06.579218
+Halling, A., Goodson, B., Hirschmann, A., Wing, B. A., and **Simpson, C.**, 2024. Experimental Snowball Earth Viscosity Drives the Evolution of Motile Multicellularity. bioRxiv. doi.org/10.1101/2024.02.06.579218
 
 [pdf]({{ site.url }}/papers/halling2024.pdf)
 
