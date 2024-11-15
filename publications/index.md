@@ -11,6 +11,8 @@ title: Publications
 
 
 <hr class="slender">
+1. Leventhal, S., Edie, Stewart M., Morrison, R., **Simpson, C.**, 2024. Origin of division of labor is decoupled from polymorphism in colonial animals. *PNAS Nexus* 3(11) pgae476. https://doi.org/10.1093/pnasnexus/pgae476
+
 1. **Simpson, C.**, Halling, A., and  Leventhal, S., 2024. Levels of selection and  macroevolution in organisms, colonies, and species. *Paleobiology*. pp 1-9.
 
 1. Halling, A., Goodson, B., Hirschmann, A., Wing, B. A., and **Simpson, C.**, 2024. Experimental Snowball Earth Viscosity Drives the Evolution of Motile Multicellularity. bioRxiv. doi.org/10.1101/2024.02.06.579218
